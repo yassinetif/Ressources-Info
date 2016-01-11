@@ -1,10 +1,4 @@
-#Ressources pédagogiques
-
-##Sommaire
-	1. **[Introduction](#introduction)**
-	2. **[Répartition des fichiers](#répartition-des-fichiers)**
-	3. **[A faire](#a-faire)**
-	4. **[Liste des cours par semestre](#liste-des-cours-par-semestre)**
+﻿#Ressources pédagogiques
 
 ##Introduction
 Ceci a pour but de disposer des cours de L2 SPI parcours informatique à tous les étudiants désireux d'avoir des notes de cours.
