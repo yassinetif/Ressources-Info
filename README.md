@@ -9,6 +9,7 @@ C'est simple, c'est d'abord suivant les semetres et ensuite plus qu'à choisir v
 ##A faire
  - [ ] Faire des fiches récapitulatives/révisions pour le S3 pour chaque matière en cas de rattrapage  
  - [ ] Mettre les cours de la semaine pour le S4
+ - [ ] Scanner le polycopié d'Instru
  
 ##Liste des unités d'enseignements par semestre :  
 * S3 : (tous les cours ne sont pas déposés car certains inutiles)
