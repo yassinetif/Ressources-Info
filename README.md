@@ -10,7 +10,8 @@ Un update sera effectué si possible chaque soir pour les cours de la journée.
 ##Liste des unités d'enseignements :
 
 * L2  
-_ S3 : (tous les cours ne sont pas déposés car certains inutiles)  
+_ S3 : (tous les cours ne sont pas déposés car certains inutiles)
+
         * Algorithme & Programmation  
 	* Algorithme avancée et Outils de développement  
 	* Base de données  
@@ -20,6 +21,7 @@ _ S3 : (tous les cours ne sont pas déposés car certains inutiles)
 	* Web dynamique
 
 _ S4 :  
+
 	* Anglais  
 	* Instrumentation avancée  
 	* Outils statistiques pour l'info  
