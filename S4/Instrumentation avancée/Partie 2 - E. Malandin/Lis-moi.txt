@@ -1,2 +1,0 @@
-Les fichiers .vi peuvent être lus avec le logiciel LabView.
-Il est possible de le télécharger gratuitement pendant une période (après t'en fais ce que tu veux)
