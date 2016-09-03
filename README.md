@@ -20,7 +20,7 @@ _ S3 : (tous les cours ne sont pas déposés car certains inutiles)
 	* Traitement du signal analogique
 	* Web dynamique
 
-_ S4 :  
+_ S4 :
 
 	* Anglais  
 	* Instrumentation avancée  
