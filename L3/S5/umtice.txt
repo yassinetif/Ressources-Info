@@ -1,2 +1,5 @@
 Voici la liste des différents codes pour l'inscription aux cours :
-- Mise à niveau C (intitulé 175EN006 - MaN C) : MANC
+- 175EN006 - MaN C : MANC
+- 175EN001 - TDA & Introduction à la POO : SUPERTDA2016
+- English for L3 : ENGBATES
+- L3 SPI - Réseau et interconnexion : R2016
