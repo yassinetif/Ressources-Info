@@ -3,3 +3,4 @@ Voici la liste des différents codes pour l'inscription aux cours :
 - 175EN001 - TDA & Introduction à la POO : SUPERTDA2016
 - English for L3 : ENGBATES
 - L3 SPI - Réseau et interconnexion : R2016
+- L3 SPI - Initiation au Génie Logiciel : L3IGL16
