@@ -1,0 +1,141 @@
+GramR algébrique
+
+Autre -> DateDuree . Qqch
+Qqch -> Interdiction | Inscription
+Prog -> Code FF
+Code -> InstructionS
+InstructionS -> Instruction | Instruction . InstructionS
+Instruction -> Emprunt < | Réservation ? | AchatDonation réel | Restitution > | Interdiction entier | Inscription Date | Radiation Nom
+Emprunt -> < Livre Emprunteur DateEmprunt
+Réservation -> ? Livre Emprunteur
+AchatDonation -> > Prix Livre
+Restitution -> ! Livre Emprunteur
+Interdiction -> Durée Livre
+Inscription -> Date Nom
+Radiation -> Nom
+
+Différentiation :
+Livre : min ; Emprunter : maj
+Prix : Réel ; Durée : Entier
+
+Prog -> InstS | FF
+InstS -> Instr . Prog
+Instr -> 
+
+----------
+
+2. LL(1) ? Justifier votre réponse
+S -> aP + bQ
+P -> S + b
+Q -> 1 + R
+R -> b
+
+Si oui -> PREM SUIV
+Si non -> Donner une chaîne lexicle qui montre qu'elle est LL(2 ou +) et l'arbre de dérivation
+
+Non -> ab
+
+3. Idem pour
+S  -> aP + bQ
+P  -> aR + T
+T  -> bQ
+Q  -> a
+R' -> aR
+P' -> aP
+Q' -> bQ
+
+PREM
+			   a  b
+Règle OU	S  P' Q'
+Règle OU	P  R' T
+ET			T  x  x  
+TERMINALE	Q  x  x
+
+La table SUIV est sans intérêt, car il n'y a pas de mot vide dans la grammaire
+
+Règles ET et TERMINALE non intéressantes
+
+4.
+S  -> A . B . C
+A  -> D + E
+B  -> F + G
+C  -> c
+D  -> 1 + D'
+E  -> 1 + E'
+F  -> f
+G  -> g
+D' -> d
+E' -> e
+
+PREM
+			    c   d   e   f   g
+Règle ET	S   x   x   x   x   x
+Règle OU	A   Er  D   E   Er  Er
+Règle OU	B   Er  Er  Er  F   G
+TERMINALE	C   x   x   x   x   x
+Règle OU	D   Er  D'  Er  Er  Er
+Règle OU	E   Er  Er  E'  Er  Er
+TERMINALE	F   x   x   x   x   x
+TERMINALE	G   x   x   x   x   x 
+TERMINALE	D'  x   x   x   x   x
+TERMINALE	E'  x   x   x   x   x 
+
+SUIV
+   c   d   e   f   g
+S  Er  A   A   B   B
+
+5.
+S -> P + Q
+P -> aS
+Q -> H . D . E
+D -> 1 + E
+E -> F + G
+F -> aQ
+G -> b
+H -> h + 1
+
+PREM
+  a  b
+S P  Q
+E F  G
+
+SUIV
+  a  b  h
+Q E  E  H
+
+6. Dessiner un arbre syntaxique associé à "A <- B * 2" qui correspond à CH4.BNF
+Affectation
+	Identificateur
+		A
+	<-
+		<-
+	Expression
+		Produit
+			ComparaisonOuTerme
+				Terme
+					Identificateur
+						B
+			OpérateurProduit
+				OpérateurMultiplication
+					*
+			ProduitOuComparaisonOuTerme
+				Terme
+					Nombre
+						2
+
+7. ecrire B <= 2
+Écriture
+	"ecrire"
+		"ecrire"
+	SuiteAffichable
+		$$ Expression ","
+			Comparaison
+				Terme
+					Identificateur
+						B
+				OpérateurDeComparaison
+					OpérateurInférieurOuEgal
+						'<='
+				ComparaisonOuTerme
+					Terme
+						2
