@@ -35,8 +35,37 @@ exo5([X|Y],L,R) :- exo5(Y,[X|L],R).
 exo6(L) :- exo5(L, [], L).
 
 /* Exercice 7 - Aplatir une liste */
+exo7([],[]).
+exo7([H|T], L) :- is_list(H), !, exo7(H,Rh), exo7(T,Rt), append(Rh,Rt,L).
+exo7([H,T], [H,Rt]) :- exo7(T,Rt).
+
+% exo7([a,[b,[c,d],e]], X).
+
+/* Exercice 8 - Éléminer les élements consécutifs et identiques */
+exo8([],[]).
+%exo8([E|[E|T]],L) :- exo8([E|T], L), !.
+exo8([E,E|T],L) :- exo8([E|T], L), !.
+exo8([E|T], [E|L]) :- exo8(T,L).
+
+% exo8([a,a,a,a,b,c,c,a,a,d,e,e,e,e],X).
+
+/* Exercice 9 - Empaqueter les éléments consécutifs d'une liste dans des sous-listes */
+exo9([],[]).
+exo9([_|_],[[_]]) :- exo9([_|_],[]).
+exo9([E,E|T],[E|L]) :- exo9([E|T],L), !.
+exo9([E|T],[E|L]) :- exo9(T,L).
+
+% exo9([a,a,a,a,b,c,c,a,a,d,e,e,e,e],X).
 
 /* Exercice 10 - Scinder une liste */
 split([],[],[]).
 split([H|T],[H|TP],N) :- H>=0,!,split(T,TP,N).
 split([H|T],P,[H|TN]) :- split(T,P,TN).
+
+/* Is_list */
+is_list([]).
+is_list([_|_]).
+
+/* Append */
+append([],L,L).
+append([H|T],L2,[H|L]) :- append(T,L2,L).
