@@ -5,7 +5,7 @@ Qqch -> Interdiction | Inscription
 Prog -> Code FF
 Code -> InstructionS
 InstructionS -> Instruction | Instruction . InstructionS
-Instruction -> Emprunt < | Réservation ? | AchatDonation réel | Restitution > | Interdiction entier | Inscription Date | Radiation Nom
+Instruction -> Emprunt | Réservation | AchatDonation | Restitution | Interdiction | Inscription | Radiation
 Emprunt -> < Livre Emprunteur DateEmprunt
 Réservation -> ? Livre Emprunteur
 AchatDonation -> > Prix Livre
@@ -17,10 +17,6 @@ Radiation -> Nom
 Différentiation :
 Livre : min ; Emprunter : maj
 Prix : Réel ; Durée : Entier
-
-Prog -> InstS | FF
-InstS -> Instr . Prog
-Instr -> 
 
 ----------
 
