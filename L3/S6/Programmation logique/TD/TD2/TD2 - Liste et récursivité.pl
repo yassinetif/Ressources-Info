@@ -50,17 +50,29 @@ exo8([E|T], [E|L]) :- exo8(T,L).
 % exo8([a,a,a,a,b,c,c,a,a,d,e,e,e,e],X).
 
 /* Exercice 9 - Empaqueter les éléments consécutifs d'une liste dans des sous-listes */
-exo9([],[]).
-exo9([_|_],[[_]]) :- exo9([_|_],[]).
-exo9([E,E|T],[E|L]) :- exo9([E|T],L), !.
-exo9([E|T],[E|L]) :- exo9(T,L).
+exo9([], []).
+exo9([H|T], [SL|P]) :-
+	!,
+	creer_sous_liste(H, T, SL, SP),
+	exo9(SP, P).
+
+creer_sous_liste(H, [], [H], []).
+creer_sous_liste(H, [I|T], [H], [I|T]) :- H \= I.
+creer_sous_liste(H, [H|T], [H|SH], SP) :- creer_sous_liste(H, T, SH, SP).
 
 % exo9([a,a,a,a,b,c,c,a,a,d,e,e,e,e],X).
+% X = [[a,a,a,a],[b],[c,c],[a,a],[d],[e,e,e]]
 
 /* Exercice 10 - Scinder une liste */
-split([],[],[]).
-split([H|T],[H|TP],N) :- H>=0,!,split(T,TP,N).
-split([H|T],P,[H|TN]) :- split(T,P,TN).
+exo10([], []).
+exo10([H|T], [[Longueur, H]|P]) :-
+	!,
+	creer_sous_liste(H, T, SL, SP),
+	length(SL, Longueur),
+	exo10(SP, P).
+
+% exo9([a,a,a,a,b,c,c,a,a,d,e,e,e,e],X).
+% X = [[4, a], [1, b], [2, c], [2, a], [1, d], [4, e]] 
 
 /* Is_list */
 is_list([]).
