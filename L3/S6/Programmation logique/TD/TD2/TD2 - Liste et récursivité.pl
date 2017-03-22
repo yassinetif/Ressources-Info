@@ -69,3 +69,26 @@ is_list([_|_]).
 /* Append */
 append([],L,L).
 append([H|T],L2,[H|L]) :- append(T,L2,L).
+
+/* Find all */
+test(t1,t2).
+test(t2,t3).
+
+test2(X,Y):- test(X,Y).
+test2(X,Y):- test(X,Z), test(Z,Y).
+
+/* Even number of elements */
+even([_,_|[]]).
+even([[_|_]|T]) :- even(T).
+
+/* Duplicate */
+dupli([],[]).
+dupli([H|T],[H,H|R]) :- dupli(T, R).
+
+/* Sub list */
+subset([L],[L]).
+subset([], L).
+subset([H|T],[H|L]) :- subset(T,L).
+subset([H|T],[_|L]) :- subset([H|T], L).
+
+is_member(X,[X|_).
