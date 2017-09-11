@@ -1,5 +1,5 @@
 # Introduction
-Ceci a pour but de disposer des cours de L2/L3 SPI (nouvellement appelée licence informatique) de l'université du Mans.
+Ceci a pour but de disposer des cours de L2/L3 SPI (nouvellement appelée licence informatique) et du Master 1 Informatique de l'université du Mans.
 
 # Répartition des fichiers
 C'est simple : choisir son année puis le semestre enfin la matière désirée!
