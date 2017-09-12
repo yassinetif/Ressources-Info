@@ -1,0 +1,5 @@
+Les entrées et sorties : https://openclassrooms.com/courses/apprenez-a-programmer-en-java/les-flux-d-entree-sortie
+La réflexivité : https://openclassrooms.com/courses/apprenez-a-programmer-en-java/java-et-la-reflexivite
+Les interfaces graphiques : https://openclassrooms.com/courses/apprenez-a-programmer-en-java/notre-premiere-fenetre
+Conception Objet / Design Pattern : https://openclassrooms.com/courses/programmation-objet-avancee-la-conception-avant-tout-design-patterns-a-l-emploi
+La programmation réseau : https://openclassrooms.com/courses/java-et-la-programmation-reseau
