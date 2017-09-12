@@ -1,1049 +1,0 @@
-TProjetSPI3
-v7
-r0
-t497296829.203577
-cCheck dependencies
-cCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
-cCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Graphe.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c" normal x86_64 c com.apple.compilers.gcc.4_2
-cCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Outil-4C54CC4D9A6C0385.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c" normal x86_64 c com.apple.compilers.gcc.4_2
-cCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Deque.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Deque.c" normal x86_64 c com.apple.compilers.gcc.4_2
-cCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Tas.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c" normal x86_64 c com.apple.compilers.gcc.4_2
-cLd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/ProjetSPI3" normal x86_64
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004B99A23900000000000000EE
-t1268359737
-s238
-
-N/Developer/SDKs/MacOSX10.6.sdk/usr/include/assert.h
-c000000004AC326060000000000000DCB
-t1254303238
-s3531
-
-N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ctype.h
-c000000004AC326060000000000002C18
-t1254303238
-s11288
-
-N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
-c000000004AC320BA00000000000004F1
-t1254301882
-s1265
-
-N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
-c000000004AC326060000000000004174
-t1254303238
-s16756
-
-N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
-c000000004AC326060000000000002DF5
-t1254303238
-s11765
-
-N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
-c000000004AC326060000000000001731
-t1254303238
-s5937
-
-N/Developer/SDKs/MacOSX10.6.sdk/usr/include/time.h
-c000000004AC32606000000000000178E
-t1254303238
-s6030
-
-N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
-c000000004AC326650000000000000C7E
-t1254303333
-s3198
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c
-c0000000056693FA50000000000002F36
-t1449738149
-s12086
-i"Outil.h"
-i"Circuit.h"
-i"Deque.h"
-i"Graphe.h"
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.h
-c00000000566926330000000000000052
-t1449731635
-s82
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Deque.c
-c0000000056608B640000000000001AC5
-t1449167716
-s6853
-i"Outil.h"
-i"Deque.h"
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Deque.h
-c0000000056608B0B000000000000023B
-t1449167627
-s571
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Flot.c
-c00000000566148220000000000005E59
-t1449216034
-s24153
-i"Outil.h"
-i"Deque.h"
-i"Graphe.h"
-i"Flot.h"
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Flot.h
-c00000000562BAE350000000000000231
-t1445703221
-s561
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c
-c000000005663F4050000000000007223
-t1449391109
-s29219
-i"Outil.h"
-i"Deque.h"
-i"Graphe.h"
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.h
-c0000000056632D710000000000000931
-t1449340273
-s2353
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c
-c0000000056693EAE00000000000093F5
-t1449737902
-s37877
-i"Outil.h"
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.h
-c0000000056693EAE000000000000232A
-t1449737902
-s9002
-i<stdio.h>
-i<stdlib.h>
-i<math.h>
-i<ctype.h>
-i<string.h>
-i<limits.h>
-i<assert.h>
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug/ProjetSPI3
-t1449738088
-s108280
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Circuit.o
-t1449738088
-s18956
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Deque.o
-t1449737902
-s16268
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Flot.o
-t1449737902
-s30572
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Graphe.o
-t1449737902
-s42304
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Outil-4C54CC4D9A6C0385.o
-t1449737902
-s91128
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/ProjetSPI3.LinkFileList
-c00000000566925AF00000000000002FA
-t1449731503
-s762
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o
-t1449737902
-s5224
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Circuit.plist
-t1449733067
-s4166
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Deque.plist
-t1449732403
-s1625
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Flot.plist
-t1449732403
-s275
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Graphe.plist
-t1449732403
-s15137
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Outil-4C54CC4D9A6C0385.plist
-t1449732403
-s30945
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/main.plist
-t1449732402
-s275
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/main.c
-c00000000566926DE0000000000000875
-t1449731806
-s2165
-i"Outil.h"
-i"Deque.h"
-i"Graphe.h"
-i"Circuit.h"
-i"Flot.h"
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Alex.c
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Alex.h
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.h
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Circuit.c
-c0000000056693FA50000000000002F36
-t1449738149
-s12086
-i"Outil.h"
-i"Circuit.h"
-i"Deque.h"
-i"Graphe.h"
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Circuit.h
-c00000000566926330000000000000052
-t1449731635
-s82
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Cycle.c
-c0000000057F356FF000000000000B358
-t1475565311
-s45912
-i"Outil.h"
-i"Cycle.h"
-i"Deque.h"
-i"Graphe.h"
-i"Matrice.h"
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Cycle.h
-c00000000566A7756000000000000004B
-t1449817942
-s75
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Deque.c
-c0000000057D687F800000000000023E7
-t1473677304
-s9191
-i"Outil.h"
-i"Deque.h"
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Deque.h
-c0000000056608B0B000000000000023B
-t1449167627
-s571
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Detruire.c
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Detruire.h
-c0000000056F0D6F20000000000000084
-t1458624242
-s132
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Erreur.c
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Erreur.h
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Flot.c
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Flot.h
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Foret.c
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Foret.h
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c
-c0000000057F3ECEA0000000000008342
-t1475603690
-s33602
-i"Outil.h"
-i"Deque.h"
-i"Graphe.h"
-i"Tas.h"
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.h
-c0000000057F3EE3C0000000000000B17
-t1475604028
-s2839
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.h
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c
-c0000000057F0B63C000000000000BEA3
-t1475393084
-s48803
-i"Outil.h"
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.h
-c0000000057F0B63C000000000000343B
-t1475393084
-s13371
-i<stdio.h>
-i<stdlib.h>
-i<math.h>
-i<ctype.h>
-i<string.h>
-i<limits.h>
-i<assert.h>
-i<time.h>
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c
-c0000000056FF863300000000000038A6
-t1459586611
-s14502
-i"Outil.h"
-i"Tas.h"
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.h
-c0000000056AF3A43000000000000017D
-t1454324291
-s381
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/ProjetSPI3
-t1475604029
-s102912
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Alex.o
-t1475393085
-s24060
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Asynt.o
-t1475393085
-s13540
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Circuit.o
-t1449738646
-s18956
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Cycle.o
-t1475565311
-s60416
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Deque.o
-t1475603624
-s17908
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Detruire.o
-t2
-s0
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Erreur.o
-t1475393085
-s8636
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Flot.o
-t1475393085
-s31392
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Foret.o
-t1475393085
-s11016
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Graphe.o
-t1475604029
-s45476
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Matrice.o
-t1475565387
-s99528
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Outil-4C54CC4D9A6C0385.o
-t1475603624
-s104332
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/ProjetSPI3.LinkFileList
-c0000000057F3ECA8000000000000026C
-t1475603624
-s620
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Tas.o
-t1475603624
-s23732
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o
-t1475604029
-s4652
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Alex.plist
-t1458481172
-s1611
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Asynt.plist
-t1458481361
-s10290
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Cycle.plist
-t1457787108
-s2897
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Deque.plist
-t1475603513
-s1622
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Flot.plist
-t1457787108
-s275
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Foret.plist
-t1458477466
-s275
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Graphe.plist
-t1475603513
-s20282
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Matrice.plist
-t1457787108
-s22175
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Outil-4C54CC4D9A6C0385.plist
-t1475603513
-s37288
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Tas.plist
-t1475603515
-s5763
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/main.plist
-t1475603513
-s275
-
-N/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/main.c
-c0000000057F3E8FE0000000000000378
-t1475602686
-s888
-i"Outil.h"
-i"Deque.h"
-i"Graphe.h"
-i"Tas.h"
-
-CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c"
-s471425867.102663
-e471425867.172716
-r1
-xAnalyze
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c:66:4:{66:13-66:15}: warning: Value stored to 'bAlterne' is never read
-o                         bAlterne=kF;//poser un point d'arrêt ici
-o                         ^        ~~
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c:98:2:{98:11-98:13}: warning: Value stored to 'bDecrire' is never read
-o         bDecrire=kF;
-o         ^        ~~
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c:270:4:{270:13-270:62}: warning: Value stored to 'bExplore' is never read
-o                         bExplore=bCircuitDetecteR(gG,sDepart,!k1Tout,nSousConnexe);
-o                         ^        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-o3 diagnostics generated.
-lSLF07#2@71"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c471425867#471425867#0(747"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c:66:4:{66:13-66:15}: warning: Value stored to 'bAlterne' is never read                         bAlterne=kF;//poser un point d'arrêt ici                         ^        ~~/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c:98:2:{98:11-98:13}: warning: Value stored to 'bDecrire' is never read         bDecrire=kF;         ^        ~~/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c:270:4:{270:13-270:62}: warning: Value stored to 'bExplore' is never read                         bExplore=bCircuitDetecteR(gG,sDepart,!k1Tout,nSousConnexe);                         ^        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~3 diagnostics generated.3(0@40"Value stored to 'bAlterne' is never read471425867#18446744073709551615#0#1(21@40"Value stored to 'bAlterne' is never read471425867#18446744073709551615#0#0(6@63"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c471425866#66#4#0#0#0"1(6@63"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c471425866#66#13#66#14#40"Value stored to 'bAlterne' is never read6@63"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c471425866#66#4#0#0#10"Dead store0(15"Dead assignment0@40"Value stored to 'bDecrire' is never read471425867#18446744073709551615#0#1(21@40"Value stored to 'bDecrire' is never read471425867#18446744073709551615#0#0(6@63"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c471425866#98#2#0#0#0"1(6@63"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c471425866#98#11#98#12#40"Value stored to 'bDecrire' is never read6@63"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c471425866#98#2#0#0#10"Dead store0(15"Dead assignment0@40"Value stored to 'bExplore' is never read471425867#18446744073709551615#0#1(21@40"Value stored to 'bExplore' is never read471425867#18446744073709551615#0#0(6@63"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c471425866#270#4#0#0#0"1(6@63"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c471425866#270#13#270#61#40"Value stored to 'bExplore' is never read6@63"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c471425866#270#4#0#0#10"Dead store0(15"Dead assignment0#0#63"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c4300911832#1529"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Circuit.plist"0#
-
-CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Deque.c"
-s471425202.976082
-e471425203.014134
-r1
-xAnalyze
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Deque.c
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Deque.c:154:6:{154:14-154:29}: warning: Value stored to 'sSource' is never read
-o                                         sSource=sDequeDefiler();
-o                                         ^       ~~~~~~~~~~~~~~~
-o1 diagnostic generated.
-lSLF07#2@69"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Deque.c471425202#471425203#0(289"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Deque.c:154:6:{154:14-154:29}: warning: Value stored to 'sSource' is never read                                         sSource=sDequeDefiler();                                         ^       ~~~~~~~~~~~~~~~1 diagnostic generated.1(0@39"Value stored to 'sSource' is never read471425203#18446744073709551615#0#1(21@39"Value stored to 'sSource' is never read471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Deque.c470860516#154#6#0#0#0"1(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Deque.c470860516#154#14#154#28#39"Value stored to 'sSource' is never read6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Deque.c470860516#154#6#0#0#10"Dead store0(15"Dead assignment0#0#61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Deque.c4300911832#1525"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Deque.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Deque.plist"0#
-
-CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Flot.c"
-s471425203.014255
-e471425203.212249
-r1
-xAnalyze
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Flot.c
-lSLF07#2@68"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Flot.c471425203#471425203#0(0"0(0#0#60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Flot.c4300911832#1523"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Flot.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Flot.plist"0#
-
-CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c"
-s471425202.944123
-e471425203.112538
-r1
-xAnalyze
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c:389:13: warning: Dereference of null pointer
-o                         sOrigine=nArcOrigine[aK];
-o                                  ^
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c:390:17: warning: Dereference of null pointer
-o                         sDestination=nArcDestination[aK];
-o                                      ^
-o2 diagnostics generated.
-lSLF07#2@70"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471425202#471425203#0(427"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c:389:13: warning: Dereference of null pointer                         sOrigine=nArcOrigine[aK];                                  ^/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c:390:17: warning: Dereference of null pointer                         sDestination=nArcDestination[aK];                                      ^2 diagnostics generated.2(0@27"Dereference of null pointer471425203#18446744073709551615#0#7(17@0"471425203#18446744073709551615#0#0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#0#0#0#0#0"0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#0#0#0#0#1(3@6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#383#2#383#2#6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#386#2#386#2#17@0"471425203#18446744073709551615#0#0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#0#0#0#0#0"0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#0#0#0#0#1(3@6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#386#2#386#2#6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#386#47#386#47#21@30"Assuming pointer value is null471425203#18446744073709551615#0#0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#386#47#0#0#0"1(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#386#47#386#60#30"Assuming pointer value is null17@0"471425203#18446744073709551615#0#0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#0#0#0#0#0"0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#0#0#0#0#1(3@6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#386#47#386#47#6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#388#3#388#3#17@0"471425203#18446744073709551615#0#0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#0#0#0#0#0"0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#0#0#0#0#1(3@6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#388#3#388#3#6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#389#4#389#4#17@0"471425203#18446744073709551615#0#0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#0#0#0#0#0"0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#0#0#0#0#1(3@6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#389#4#389#4#6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#389#13#389#27#21@27"Dereference of null pointer471425203#18446744073709551615#0#0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#389#13#0#0#0"1(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#389#13#389#27#27"Dereference of null pointer6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#389#13#0#0#12"Logic errors0(16"Null dereference0@27"Dereference of null pointer471425203#18446744073709551615#0#8(17@0"471425203#18446744073709551615#0#0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#0#0#0#0#0"0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#0#0#0#0#1(3@6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#383#2#383#2#6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#386#2#386#2#17@0"471425203#18446744073709551615#0#0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#0#0#0#0#0"0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#0#0#0#0#1(3@6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#386#2#386#2#6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#386#63#386#63#21@30"Assuming pointer value is null471425203#18446744073709551615#0#0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#386#63#0#0#0"1(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#386#63#386#80#30"Assuming pointer value is null17@0"471425203#18446744073709551615#0#0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#0#0#0#0#0"0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#0#0#0#0#1(3@6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#386#63#386#63#6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#388#3#388#3#17@0"471425203#18446744073709551615#0#0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#0#0#0#0#0"0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#0#0#0#0#1(3@6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#388#3#388#3#6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#389#4#389#4#17@0"471425203#18446744073709551615#0#0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#0#0#0#0#0"0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#0#0#0#0#1(3@6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#389#4#389#4#6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#390#4#390#4#17@0"471425203#18446744073709551615#0#0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#0#0#0#0#0"0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#0#0#0#0#1(3@6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#390#4#390#4#6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#390#17#390#35#21@27"Dereference of null pointer471425203#18446744073709551615#0#0(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#390#17#0#0#0"1(6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#390#17#390#35#27"Dereference of null pointer6@62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471083909#390#17#0#0#12"Logic errors0(16"Null dereference0#0#62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c4300911832#1527"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Graphe.plist"0#
-
-CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c"
-s471425202.973233
-e471425203.137817
-r1
-xAnalyze
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c:47:36:{47:11-47:25}: warning: more data arguments than '%' conversions [-Wformat-extra-args]
-o                         printf(" dans \"%s\"",sContexte,nParametre);
-o                                ~~~~~~~~~~~~~~           ^
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c:105:31:{105:9-105:20}: warning: more data arguments than '%' conversions [-Wformat-extra-args]
-o         printf("%%4d%4d\n",iInteger1,iInteger2);
-o                ~~~~~~~~~~~           ^
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c:503:8: warning: Dereference of null pointer
-o         cCode=sString[*pnCodeCaractereRg];
-o               ^
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c:502:10: warning: Dereference of null pointer
-o         Croit(0,*pnCodeCaractereRg,strlen(sString));
-o                 ^
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c:697:3: warning: Dereference of null pointer
-o                 piMemOrigine[nItem]=iValeur;
-o                 ^
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c:710:3: warning: Dereference of null pointer
-o                 pyMemOrigine[nItem]=yValeur;
-o                 ^
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c:944:17: warning: Dereference of null pointer
-o                         printf("%4d",piQuelVecteur[nE]);
-o                                      ^
-o7 diagnostics generated.
-lSLF07#2@69"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425202#471425203#0(1450"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c:47:36:{47:11-47:25}: warning: more data arguments than '%' conversions [-Wformat-extra-args]                         printf(" dans \"%s\"",sContexte,nParametre);                                ~~~~~~~~~~~~~~           ^/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c:105:31:{105:9-105:20}: warning: more data arguments than '%' conversions [-Wformat-extra-args]         printf("%%4d%4d\n",iInteger1,iInteger2);                ~~~~~~~~~~~           ^/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c:503:8: warning: Dereference of null pointer         cCode=sString[*pnCodeCaractereRg];               ^/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c:502:10: warning: Dereference of null pointer         Croit(0,*pnCodeCaractereRg,strlen(sString));                 ^/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c:697:3: warning: Dereference of null pointer                 piMemOrigine[nItem]=iValeur;                 ^/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c:710:3: warning: Dereference of null pointer                 pyMemOrigine[nItem]=yValeur;                 ^/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c:944:17: warning: Dereference of null pointer                         printf("%4d",piQuelVecteur[nE]);                                      ^7 diagnostics generated.5(0@27"Dereference of null pointer471425203#18446744073709551615#0#6(17@0"471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#0"0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#1(3@6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#493#2#493#2#6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#500#2#500#2#17@0"471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#0"0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#1(3@6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#500#2#500#2#6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#500#8#500#8#21@30"Assuming pointer value is null471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#500#8#0#0#0"1(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#500#8#500#17#30"Assuming pointer value is null17@0"471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#0"0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#1(3@6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#500#8#500#8#6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#503#2#503#2#17@0"471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#0"0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#1(3@6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#503#2#503#2#6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#503#8#503#34#21@27"Dereference of null pointer471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#503#8#0#0#0"1(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#503#8#503#34#27"Dereference of null pointer6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#503#8#0#0#12"Logic errors0(16"Null dereference0@27"Dereference of null pointer471425203#18446744073709551615#0#6(17@0"471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#0"0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#1(3@6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#493#2#493#2#6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#500#2#500#2#17@0"471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#0"0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#1(3@6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#500#2#500#2#6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#500#19#500#19#21@30"Assuming pointer value is null471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#500#19#0#0#0"1(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#500#19#500#38#30"Assuming pointer value is null17@0"471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#0"0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#1(3@6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#500#19#500#19#6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#502#2#502#2#17@0"471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#0"0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#1(3@6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#502#2#502#2#6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#502#10#502#27#21@27"Dereference of null pointer471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#502#10#0#0#0"1(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#502#10#502#27#27"Dereference of null pointer6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#502#10#0#0#12"Logic errors0(16"Null dereference0@27"Dereference of null pointer471425203#18446744073709551615#0#6(17@0"471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#0"0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#1(3@6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#694#2#694#2#6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#695#2#695#2#17@0"471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#0"0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#1(3@6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#695#2#695#2#6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#695#8#695#8#21@30"Assuming pointer value is null471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#695#8#0#0#0"1(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#695#8#695#22#30"Assuming pointer value is null17@0"471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#0"0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#1(3@6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#695#8#695#8#6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#696#2#696#2#17@0"471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#0"0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#1(3@6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#696#2#696#2#6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#697#3#697#21#21@27"Dereference of null pointer471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#697#3#0#0#0"1(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#697#3#697#21#27"Dereference of null pointer6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#697#3#0#0#12"Logic errors0(16"Null dereference0@27"Dereference of null pointer471425203#18446744073709551615#0#6(17@0"471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#0"0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#1(3@6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#707#2#707#2#6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#708#2#708#2#17@0"471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#0"0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#1(3@6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#708#2#708#2#6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#708#8#708#8#21@30"Assuming pointer value is null471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#708#8#0#0#0"1(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#708#8#708#22#30"Assuming pointer value is null17@0"471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#0"0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#1(3@6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#708#8#708#8#6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#709#2#709#2#17@0"471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#0"0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#1(3@6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#709#2#709#2#6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#710#3#710#21#21@27"Dereference of null pointer471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#710#3#0#0#0"1(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#710#3#710#21#27"Dereference of null pointer6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#710#3#0#0#12"Logic errors0(16"Null dereference0@27"Dereference of null pointer471425203#18446744073709551615#0#7(17@0"471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#0"0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#1(3@6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#939#2#939#2#6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#940#2#940#2#17@0"471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#0"0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#1(3@6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#940#2#940#2#6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#940#18#940#18#21@30"Assuming pointer value is null471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#940#18#0#0#0"1(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#940#18#940#33#30"Assuming pointer value is null17@0"471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#0"0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#1(3@6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#940#18#940#18#6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#943#3#943#3#17@0"471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#0"0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#1(3@6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#943#3#943#3#6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#944#4#944#4#17@0"471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#0"0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#0#0#0#0#1(3@6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#944#4#944#4#6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#944#17#944#33#21@27"Dereference of null pointer471425203#18446744073709551615#0#0(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#944#17#0#0#0"1(6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#944#17#944#33#27"Dereference of null pointer6@61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471425165#944#17#0#0#12"Logic errors0(16"Null dereference0#0#61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c4300911832#1542"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Outil-4C54CC4D9A6C0385.plist"0#
-
-CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/main.c"
-s471425202.939680
-e471425202.975958
-r1
-xAnalyze
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/main.c
-lSLF07#2@68"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/main.c471425202#471425203#0(0"0(0#0#60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/main.c4300911832#1523"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/main.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/main.plist"0#
-
-CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Alex.c"
-s480173972.518680
-e480173972.578764
-r1
-xAnalyze
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Alex.c
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Alex.c:229:3:{229:8-229:19}: warning: Value stored to 'sBug' is never read
-o                 sBug=malloc(100);
-o                 ^    ~~~~~~~~~~~
-o1 diagnostic generated.
-lSLF07#2@65"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Alex.c480173972#480173972#0(219"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Alex.c:229:3:{229:8-229:19}: warning: Value stored to 'sBug' is never read                 sBug=malloc(100);                 ^    ~~~~~~~~~~~1 diagnostic generated.1(0@36"Value stored to 'sBug' is never read480173972#18446744073709551615#0#1(21@36"Value stored to 'sBug' is never read480173972#18446744073709551615#0#0(6@57"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Alex.c480173972#229#3#0#0#0"1(6@57"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Alex.c480173972#229#8#229#18#36"Value stored to 'sBug' is never read6@57"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Alex.c480173972#229#3#0#0#10"Dead store0(15"Dead assignment0#0#57"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Alex.c4300911832#1490"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Alex.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Alex.plist"0#
-
-CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c"
-s480174160.980379
-e480174161.007481
-r1
-xAnalyze
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c:97:9:{97:10-97:17}: warning: Branch condition evaluates to an uninitialized value.
-o         *piFin=(bSucces)? iFin:iDebut;
-o                ^~~~~~~~
-o1 diagnostic generated.
-lSLF07#2@66"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#480174161#0(231"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c:97:9:{97:10-97:17}: warning: Branch condition evaluates to an uninitialized value.         *piFin=(bSucces)? iFin:iDebut;                ^~~~~~~~1 diagnostic generated.1(0@52"Branch condition evaluates to an uninitialized value480174161#18446744073709551615#0#10(17@0"480174161#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#87#2#87#4#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#87#6#87#6#17@0"480174161#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#87#6#87#6#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#87#14#87#20#21@52"Variable 'bSucces' declared without an initial value480174161#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#87#14#0#0#0"1(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#87#14#87#20#52"Variable 'bSucces' declared without an initial value17@0"480174161#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#87#14#87#20#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#88#2#88#2#17@0"480174161#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#88#2#88#2#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#89#3#89#3#17@0"480174161#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#89#3#89#3#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#90#3#90#3#17@0"480174161#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#90#3#90#3#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#94#13#94#13#17@0"480174161#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#94#13#94#13#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#97#2#97#2#17@0"480174161#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#97#2#97#2#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#97#10#97#10#21@52"Branch condition evaluates to an uninitialized value480174161#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#97#9#0#0#0"1(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#97#10#97#16#52"Branch condition evaluates to an uninitialized value6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c480174160#97#9#0#0#12"Logic errors0(26"Use of uninitialized value0#0#58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c4300911832#1492"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Asynt.plist"0#
-
-CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Cycle.c"
-s479479908.552138
-e479479908.771248
-r1
-xAnalyze
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Cycle.c
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Cycle.c:131:4:{131:13-131:15}: warning: Value stored to 'bAlterne' is never read
-o                         bAlterne=kF;//poser un point d'arrêt ici
-o                         ^        ~~
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Cycle.c:163:2:{163:11-163:13}: warning: Value stored to 'bDecrire' is never read
-o         bDecrire=kF;
-o         ^        ~~
-o2 diagnostics generated.
-lSLF07#2@66"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Cycle.c479479908#479479908#0(437"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Cycle.c:131:4:{131:13-131:15}: warning: Value stored to 'bAlterne' is never read                         bAlterne=kF;//poser un point d'arrêt ici                         ^        ~~/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Cycle.c:163:2:{163:11-163:13}: warning: Value stored to 'bDecrire' is never read         bDecrire=kF;         ^        ~~2 diagnostics generated.2(0@40"Value stored to 'bAlterne' is never read479479908#18446744073709551615#0#1(21@40"Value stored to 'bAlterne' is never read479479908#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Cycle.c479476911#131#4#0#0#0"1(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Cycle.c479476911#131#13#131#14#40"Value stored to 'bAlterne' is never read6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Cycle.c479476911#131#4#0#0#10"Dead store0(15"Dead assignment0@40"Value stored to 'bDecrire' is never read479479908#18446744073709551615#0#1(21@40"Value stored to 'bDecrire' is never read479479908#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Cycle.c479476911#163#2#0#0#0"1(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Cycle.c479476911#163#11#163#12#40"Value stored to 'bDecrire' is never read6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Cycle.c479476911#163#2#0#0#10"Dead store0(15"Dead assignment0#0#58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Cycle.c4300911832#1492"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Cycle.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Cycle.plist"0#
-
-CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Deque.c"
-s497296313.759473
-e497296313.815357
-r1
-xAnalyze
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Deque.c
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Deque.c:182:6:{182:14-182:29}: warning: Value stored to 'sSource' is never read
-o                                         sSource=sDequeDefiler();
-o                                         ^       ~~~~~~~~~~~~~~~
-o1 diagnostic generated.
-lSLF07#2@66"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Deque.c497296313#497296313#0(286"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Deque.c:182:6:{182:14-182:29}: warning: Value stored to 'sSource' is never read                                         sSource=sDequeDefiler();                                         ^       ~~~~~~~~~~~~~~~1 diagnostic generated.1(0@39"Value stored to 'sSource' is never read497296313#18446744073709551615#0#1(21@39"Value stored to 'sSource' is never read497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Deque.c495370104#182#6#0#0#0"1(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Deque.c495370104#182#14#182#28#39"Value stored to 'sSource' is never read6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Deque.c495370104#182#6#0#0#10"Dead store0(15"Dead assignment0#0#58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Deque.c4300911832#1492"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Deque.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Deque.plist"0#
-
-CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Flot.c"
-s479479908.523259
-e479479908.744262
-r1
-xAnalyze
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Flot.c
-lSLF07#2@65"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Flot.c479479908#479479908#0(0"0(0#0#57"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Flot.c4300911832#1490"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Flot.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Flot.plist"0#
-
-CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Foret.c"
-s480170265.916462
-e480170266.022142
-r1
-xAnalyze
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Foret.c
-lSLF07#2@66"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Foret.c480170265#480170266#0(0"0(0#0#58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Foret.c31525674140565612#1492"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Foret.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Foret.plist"0#
-
-CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c"
-s497296313.720976
-e497296313.950578
-r1
-xAnalyze
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c:336:6:{336:20-336:53}: warning: Value stored to 'nComplexiteh0' is never read
-o                                         nComplexiteh0=nGrapheCouvriR(pgG,!k1Logn,k1Tas);
-o                                         ^             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c:334:6:{334:20-334:54}: warning: Value stored to 'nComplexiteh0' is never read
-o                                         nComplexiteh0=nGrapheCouvriR(pgG,!k1Logn,!k1Tas);
-o                                         ^             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c:338:5:{338:19-338:51}: warning: Value stored to 'nComplexiteh1' is never read
-o                                 nComplexiteh1=nGrapheCouvriR(pgG,k1Logn,k1Tas);
-o                                 ^             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c:335:6:{335:20-335:53}: warning: Value stored to 'nComplexiteh1' is never read
-o                                         nComplexiteh1=nGrapheCouvriR(pgG,k1Logn,!k1Tas);
-o                                         ^             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c:370:17: warning: Dereference of null pointer
-o                         sDestination=nArcDestination[aK];
-o                                      ^
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c:369:13: warning: Dereference of null pointer
-o                         sOrigine=nArcOrigine[aK];
-o                                  ^
-o6 diagnostics generated.
-lSLF07#2@67"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296313#497296313#0(1673"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c:336:6:{336:20-336:53}: warning: Value stored to 'nComplexiteh0' is never read                                         nComplexiteh0=nGrapheCouvriR(pgG,!k1Logn,k1Tas);                                         ^             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c:334:6:{334:20-334:54}: warning: Value stored to 'nComplexiteh0' is never read                                         nComplexiteh0=nGrapheCouvriR(pgG,!k1Logn,!k1Tas);                                         ^             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c:338:5:{338:19-338:51}: warning: Value stored to 'nComplexiteh1' is never read                                 nComplexiteh1=nGrapheCouvriR(pgG,k1Logn,k1Tas);                                 ^             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c:335:6:{335:20-335:53}: warning: Value stored to 'nComplexiteh1' is never read                                         nComplexiteh1=nGrapheCouvriR(pgG,k1Logn,!k1Tas);                                         ^             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c:370:17: warning: Dereference of null pointer                         sDestination=nArcDestination[aK];                                      ^/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c:369:13: warning: Dereference of null pointer                         sOrigine=nArcOrigine[aK];                                  ^6 diagnostics generated.6(0@45"Value stored to 'nComplexiteh0' is never read497296313#18446744073709551615#0#1(21@45"Value stored to 'nComplexiteh0' is never read497296313#18446744073709551615#0#0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#336#6#0#0#0"1(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#336#20#336#52#45"Value stored to 'nComplexiteh0' is never read6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#336#6#0#0#10"Dead store0(15"Dead assignment0@45"Value stored to 'nComplexiteh0' is never read497296313#18446744073709551615#0#1(21@45"Value stored to 'nComplexiteh0' is never read497296313#18446744073709551615#0#0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#334#6#0#0#0"1(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#334#20#334#53#45"Value stored to 'nComplexiteh0' is never read6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#334#6#0#0#10"Dead store0(15"Dead assignment0@45"Value stored to 'nComplexiteh1' is never read497296313#18446744073709551615#0#1(21@45"Value stored to 'nComplexiteh1' is never read497296313#18446744073709551615#0#0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#338#5#0#0#0"1(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#338#19#338#50#45"Value stored to 'nComplexiteh1' is never read6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#338#5#0#0#10"Dead store0(15"Dead assignment0@45"Value stored to 'nComplexiteh1' is never read497296313#18446744073709551615#0#1(21@45"Value stored to 'nComplexiteh1' is never read497296313#18446744073709551615#0#0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#335#6#0#0#0"1(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#335#20#335#52#45"Value stored to 'nComplexiteh1' is never read6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#335#6#0#0#10"Dead store0(15"Dead assignment0@27"Dereference of null pointer497296313#18446744073709551615#0#8(17@0"497296313#18446744073709551615#0#0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#0#0#0#0#0"0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#0#0#0#0#1(3@6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#363#2#363#2#6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#366#2#366#2#17@0"497296313#18446744073709551615#0#0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#0#0#0#0#0"0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#0#0#0#0#1(3@6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#366#2#366#2#6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#366#63#366#63#21@30"Assuming pointer value is null497296313#18446744073709551615#0#0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#366#63#0#0#0"1(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#366#63#366#80#30"Assuming pointer value is null17@0"497296313#18446744073709551615#0#0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#0#0#0#0#0"0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#0#0#0#0#1(3@6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#366#63#366#63#6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#368#3#368#3#17@0"497296313#18446744073709551615#0#0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#0#0#0#0#0"0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#0#0#0#0#1(3@6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#368#3#368#3#6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#369#4#369#4#17@0"497296313#18446744073709551615#0#0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#0#0#0#0#0"0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#0#0#0#0#1(3@6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#369#4#369#4#6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#370#4#370#4#17@0"497296313#18446744073709551615#0#0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#0#0#0#0#0"0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#0#0#0#0#1(3@6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#370#4#370#4#6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#370#17#370#35#21@27"Dereference of null pointer497296313#18446744073709551615#0#0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#370#17#0#0#0"1(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#370#17#370#35#27"Dereference of null pointer6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#370#17#0#0#12"Logic errors0(16"Null dereference0@27"Dereference of null pointer497296313#18446744073709551615#0#7(17@0"497296313#18446744073709551615#0#0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#0#0#0#0#0"0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#0#0#0#0#1(3@6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#363#2#363#2#6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#366#2#366#2#17@0"497296313#18446744073709551615#0#0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#0#0#0#0#0"0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#0#0#0#0#1(3@6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#366#2#366#2#6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#366#47#366#47#21@30"Assuming pointer value is null497296313#18446744073709551615#0#0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#366#47#0#0#0"1(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#366#47#366#60#30"Assuming pointer value is null17@0"497296313#18446744073709551615#0#0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#0#0#0#0#0"0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#0#0#0#0#1(3@6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#366#47#366#47#6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#368#3#368#3#17@0"497296313#18446744073709551615#0#0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#0#0#0#0#0"0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#0#0#0#0#1(3@6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#368#3#368#3#6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#369#4#369#4#17@0"497296313#18446744073709551615#0#0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#0#0#0#0#0"0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#0#0#0#0#1(3@6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#369#4#369#4#6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#369#13#369#27#21@27"Dereference of null pointer497296313#18446744073709551615#0#0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#369#13#0#0#0"1(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#369#13#369#27#27"Dereference of null pointer6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296275#369#13#0#0#12"Logic errors0(16"Null dereference0#0#59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c4300911832#1494"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Graphe.plist"0#
-
-CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c"
-s479479908.697589
-e479479908.859028
-r1
-xAnalyze
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c:87:16:{87:12-87:15}: warning: more data arguments than '%' conversions [-Wformat-extra-args]
-o                                 printf(".",uN);
-o                                        ~~~ ^
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c:489:2:{489:14-489:23}: warning: Value stored to 'zCasInitial' is never read
-o         zCasInitial=257924799;
-o         ^           ~~~~~~~~~
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c:504:4:{504:22-504:30}: warning: Pass-by-value argument in function call is undefined.
-o                         MatriceConstitueR(zCasPire,&pmA);
-o                         ^                 ~~~~~~~~
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c:817:8:{817:18-817:77}: warning: Value stored to 'fDensiteh' is never read
-o                                                         fDensiteh=fMatriceRempliR(k1BitsDistincts,knLigneMaX*knLigneMaX,&pmA);
-o                                                         ^         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c:794:6:{794:13-794:45}: warning: Value stored to 'zBarre' is never read
-o                                         zBarre=zMatriceMultiplieR(pmA,pmB,&pmC);
-o                                         ^      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c:805:6:{805:13-805:45}: warning: Value stored to 'zBarre' is never read
-o                                         zBarre=zMatriceMultiplieR(pmA,pmB,&pmC);
-o                                         ^      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c:818:8:{818:18-818:77}: warning: Value stored to 'fDensiteh' is never read
-o                                                         fDensiteh=fMatriceRempliR(k1BitsDistincts,knLigneMaX*knLigneMaX,&pmB);
-o                                                         ^         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c:893:5:{893:15-893:74}: warning: Value stored to 'fDensiteh' is never read
-o                                 fDensiteh=fMatriceRempliR(k1BitsDistincts,knLigneMaX*knLigneMaX,&pmA);
-o                                 ^         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c:894:5:{894:15-894:74}: warning: Value stored to 'fDensiteh' is never read
-o                                 fDensiteh=fMatriceRempliR(k1BitsDistincts,knLigneMaX*knLigneMaX,&pmB);
-o                                 ^         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-o9 diagnostics generated.
-lSLF07#2@68"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c479479908#479479908#0(2786"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c:87:16:{87:12-87:15}: warning: more data arguments than '%' conversions [-Wformat-extra-args]                                 printf(".",uN);                                        ~~~ ^/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c:489:2:{489:14-489:23}: warning: Value stored to 'zCasInitial' is never read         zCasInitial=257924799;         ^           ~~~~~~~~~/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c:504:4:{504:22-504:30}: warning: Pass-by-value argument in function call is undefined.                         MatriceConstitueR(zCasPire,&pmA);                         ^                 ~~~~~~~~/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c:817:8:{817:18-817:77}: warning: Value stored to 'fDensiteh' is never read                                                         fDensiteh=fMatriceRempliR(k1BitsDistincts,knLigneMaX*knLigneMaX,&pmA);                                                         ^         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c:794:6:{794:13-794:45}: warning: Value stored to 'zBarre' is never read                                         zBarre=zMatriceMultiplieR(pmA,pmB,&pmC);                                         ^      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c:805:6:{805:13-805:45}: warning: Value stored to 'zBarre' is never read                                         zBarre=zMatriceMultiplieR(pmA,pmB,&pmC);                                         ^      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c:818:8:{818:18-818:77}: warning: Value stored to 'fDensiteh' is never read                                                         fDensiteh=fMatriceRempliR(k1BitsDistincts,knLigneMaX*knLigneMaX,&pmB);                                                         ^         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c:893:5:{893:15-893:74}: warning: Value stored to 'fDensiteh' is never read                                 fDensiteh=fMatriceRempliR(k1BitsDistincts,knLigneMaX*knLigneMaX,&pmA);                                 ^         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c:894:5:{894:15-894:74}: warning: Value stored to 'fDensiteh' is never read                                 fDensiteh=fMatriceRempliR(k1BitsDistincts,knLigneMaX*knLigneMaX,&pmB);                                 ^         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~9 diagnostics generated.8(0@43"Value stored to 'zCasInitial' is never read479479908#18446744073709551615#0#1(21@43"Value stored to 'zCasInitial' is never read479479908#18446744073709551615#0#0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#489#2#0#0#0"1(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#489#14#489#22#43"Value stored to 'zCasInitial' is never read6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#489#2#0#0#10"Dead store0(15"Dead assignment0@52"Pass-by-value argument in function call is undefined479479908#18446744073709551615#0#13(17@0"479479908#18446744073709551615#0#0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#0#0#0#0#0"0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#0#0#0#0#1(3@6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#480#2#480#2#6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#481#32#481#39#21@53"Variable 'zCasPire' declared without an initial value479479908#18446744073709551615#0#0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#481#32#0#0#0"1(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#481#32#481#39#53"Variable 'zCasPire' declared without an initial value17@0"479479908#18446744073709551615#0#0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#0#0#0#0#0"0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#0#0#0#0#1(3@6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#481#32#481#39#6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#491#2#491#2#17@0"479479908#18446744073709551615#0#0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#0#0#0#0#0"0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#0#0#0#0#1(3@6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#491#2#491#2#6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#492#3#492#3#17@0"479479908#18446744073709551615#0#0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#0#0#0#0#0"0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#0#0#0#0#1(3@6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#492#3#492#3#6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#495#13#495#13#17@0"479479908#18446744073709551615#0#0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#0#0#0#0#0"0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#0#0#0#0#1(3@6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#495#13#495#13#6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#495#38#495#38#17@0"479479908#18446744073709551615#0#0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#0#0#0#0#0"0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#0#0#0#0#1(3@6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#495#38#495#38#6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#496#3#496#3#17@0"479479908#18446744073709551615#0#0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#0#0#0#0#0"0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#0#0#0#0#1(3@6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#496#3#496#3#6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#501#9#501#9#17@0"479479908#18446744073709551615#0#0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#0#0#0#0#0"0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#0#0#0#0#1(3@6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#501#9#501#9#6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#501#22#501#22#17@0"479479908#18446744073709551615#0#0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#0#0#0#0#0"0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#0#0#0#0#1(3@6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#501#22#501#22#6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#501#53#501#53#17@0"479479908#18446744073709551615#0#0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#0#0#0#0#0"0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#0#0#0#0#1(3@6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#501#53#501#53#6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#503#3#503#3#17@0"479479908#18446744073709551615#0#0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#0#0#0#0#0"0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#0#0#0#0#1(3@6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#503#3#503#3#6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#504#4#504#35#21@52"Pass-by-value argument in function call is undefined479479908#18446744073709551615#0#0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#504#4#0#0#0"1(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#504#22#504#29#52"Pass-by-value argument in function call is undefined6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#504#4#0#0#12"Logic errors0(22"Uninitialized argument0@41"Value stored to 'fDensiteh' is never read479479908#18446744073709551615#0#1(21@41"Value stored to 'fDensiteh' is never read479479908#18446744073709551615#0#0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#817#8#0#0#0"1(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#817#18#817#76#41"Value stored to 'fDensiteh' is never read6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#817#8#0#0#10"Dead store0(15"Dead assignment0@38"Value stored to 'zBarre' is never read479479908#18446744073709551615#0#1(21@38"Value stored to 'zBarre' is never read479479908#18446744073709551615#0#0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#794#6#0#0#0"1(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#794#13#794#44#38"Value stored to 'zBarre' is never read6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#794#6#0#0#10"Dead store0(15"Dead assignment0@38"Value stored to 'zBarre' is never read479479908#18446744073709551615#0#1(21@38"Value stored to 'zBarre' is never read479479908#18446744073709551615#0#0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#805#6#0#0#0"1(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#805#13#805#44#38"Value stored to 'zBarre' is never read6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#805#6#0#0#10"Dead store0(15"Dead assignment0@41"Value stored to 'fDensiteh' is never read479479908#18446744073709551615#0#1(21@41"Value stored to 'fDensiteh' is never read479479908#18446744073709551615#0#0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#818#8#0#0#0"1(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#818#18#818#76#41"Value stored to 'fDensiteh' is never read6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#818#8#0#0#10"Dead store0(15"Dead assignment0@41"Value stored to 'fDensiteh' is never read479479908#18446744073709551615#0#1(21@41"Value stored to 'fDensiteh' is never read479479908#18446744073709551615#0#0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#893#5#0#0#0"1(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#893#15#893#73#41"Value stored to 'fDensiteh' is never read6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#893#5#0#0#10"Dead store0(15"Dead assignment0@41"Value stored to 'fDensiteh' is never read479479908#18446744073709551615#0#1(21@41"Value stored to 'fDensiteh' is never read479479908#18446744073709551615#0#0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#894#5#0#0#0"1(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#894#15#894#73#41"Value stored to 'fDensiteh' is never read6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c475929306#894#5#0#0#10"Dead store0(15"Dead assignment0#0#60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c4300911832#1496"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Matrice.plist"0#
-
-CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c"
-s497296313.722374
-e497296313.934243
-r1
-xAnalyze
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c:512:33: warning: Dereference of null pointer
-o         Assert1("bConsonnE2c",bCroit(0,*pnCodeCaractereRg,strlen(sTexte)));
-o                                        ^
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c:513:8: warning: Dereference of null pointer
-o         cCode=sTexte[*pnCodeCaractereRg];
-o               ^
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c:786:3: warning: Dereference of null pointer
-o                 piMemOrigine[nItem]=iValeur;
-o                 ^
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c:799:3: warning: Dereference of null pointer
-o                 pyMemOrigine[nItem]=yValeur;
-o                 ^
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c:962:7:{962:12-962:26}: warning: Value stored to 'zBof' is never read
-o                                                 zBof=zPpcm(170,153);
-o                                                 ^    ~~~~~~~~~~~~~~
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c:961:7:{961:12-961:24}: warning: Value stored to 'zBof' is never read
-o                                                 zBof=zPpcm(60,32);
-o                                                 ^    ~~~~~~~~~~~~
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c:959:13:{959:18-959:30}: warning: Value stored to 'zBof' is never read
-o                         case 61:        zBof=zPgcd(60,32);
-o                                         ^    ~~~~~~~~~~~~
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c:960:7:{960:12-960:26}: warning: Value stored to 'zBof' is never read
-o                                                 zBof=zPgcd(170,153);
-o                                                 ^    ~~~~~~~~~~~~~~
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c:1095:13:{1095:13-1095:17}: warning: Value stored to 'nD' is never read
-o                         sPluriel[nD++]='\0';
-o                                  ^~~~
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c:1234:17: warning: Dereference of null pointer
-o                         printf("%4d",piQuelVecteur[nE]);
-o                                      ^
-o10 diagnostics generated.
-lSLF07#2@66"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497296313#497296313#0(2211"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c:512:33: warning: Dereference of null pointer         Assert1("bConsonnE2c",bCroit(0,*pnCodeCaractereRg,strlen(sTexte)));                                        ^/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c:513:8: warning: Dereference of null pointer         cCode=sTexte[*pnCodeCaractereRg];               ^/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c:786:3: warning: Dereference of null pointer                 piMemOrigine[nItem]=iValeur;                 ^/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c:799:3: warning: Dereference of null pointer                 pyMemOrigine[nItem]=yValeur;                 ^/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c:962:7:{962:12-962:26}: warning: Value stored to 'zBof' is never read                                                 zBof=zPpcm(170,153);                                                 ^    ~~~~~~~~~~~~~~/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c:961:7:{961:12-961:24}: warning: Value stored to 'zBof' is never read                                                 zBof=zPpcm(60,32);                                                 ^    ~~~~~~~~~~~~/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c:959:13:{959:18-959:30}: warning: Value stored to 'zBof' is never read                         case 61:        zBof=zPgcd(60,32);                                         ^    ~~~~~~~~~~~~/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c:960:7:{960:12-960:26}: warning: Value stored to 'zBof' is never read                                                 zBof=zPgcd(170,153);                                                 ^    ~~~~~~~~~~~~~~/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c:1095:13:{1095:13-1095:17}: warning: Value stored to 'nD' is never read                         sPluriel[nD++]='\0';                                  ^~~~/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c:1234:17: warning: Dereference of null pointer                         printf("%4d",piQuelVecteur[nE]);                                      ^10 diagnostics generated.10(0@27"Dereference of null pointer497296313#18446744073709551615#0#6(17@0"497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#503#2#503#2#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#510#2#510#2#17@0"497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#510#2#510#2#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#510#34#510#34#21@30"Assuming pointer value is null497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#510#34#0#0#0"1(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#510#34#510#53#30"Assuming pointer value is null17@0"497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#510#34#510#34#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#512#2#512#2#17@0"497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#512#2#512#2#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#512#33#512#50#21@27"Dereference of null pointer497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#512#33#0#0#0"1(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#512#33#512#50#27"Dereference of null pointer6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#512#33#0#0#12"Logic errors0(16"Null dereference0@27"Dereference of null pointer497296313#18446744073709551615#0#6(17@0"497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#503#2#503#2#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#510#2#510#2#17@0"497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#510#2#510#2#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#510#24#510#24#21@30"Assuming pointer value is null497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#510#24#0#0#0"1(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#510#24#510#32#30"Assuming pointer value is null17@0"497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#510#24#510#24#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#513#2#513#2#17@0"497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#513#2#513#2#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#513#8#513#33#21@27"Dereference of null pointer497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#513#8#0#0#0"1(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#513#8#513#33#27"Dereference of null pointer6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#513#8#0#0#12"Logic errors0(16"Null dereference0@27"Dereference of null pointer497296313#18446744073709551615#0#6(17@0"497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#783#2#783#2#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#784#2#784#2#17@0"497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#784#2#784#2#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#784#25#784#25#21@30"Assuming pointer value is null497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#784#25#0#0#0"1(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#784#25#784#39#30"Assuming pointer value is null17@0"497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#784#25#784#25#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#785#2#785#2#17@0"497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#785#2#785#2#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#786#3#786#21#21@27"Dereference of null pointer497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#786#3#0#0#0"1(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#786#3#786#21#27"Dereference of null pointer6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#786#3#0#0#12"Logic errors0(16"Null dereference0@27"Dereference of null pointer497296313#18446744073709551615#0#6(17@0"497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#796#2#796#2#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#797#2#797#2#17@0"497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#797#2#797#2#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#797#26#797#26#21@30"Assuming pointer value is null497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#797#26#0#0#0"1(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#797#26#797#40#30"Assuming pointer value is null17@0"497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#797#26#797#26#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#798#2#798#2#17@0"497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#798#2#798#2#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#799#3#799#21#21@27"Dereference of null pointer497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#799#3#0#0#0"1(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#799#3#799#21#27"Dereference of null pointer6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#799#3#0#0#12"Logic errors0(16"Null dereference0@36"Value stored to 'zBof' is never read497296313#18446744073709551615#0#1(21@36"Value stored to 'zBof' is never read497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#962#7#0#0#0"1(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#962#12#962#25#36"Value stored to 'zBof' is never read6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#962#7#0#0#10"Dead store0(15"Dead assignment0@36"Value stored to 'zBof' is never read497296313#18446744073709551615#0#1(21@36"Value stored to 'zBof' is never read497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#961#7#0#0#0"1(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#961#12#961#23#36"Value stored to 'zBof' is never read6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#961#7#0#0#10"Dead store0(15"Dead assignment0@36"Value stored to 'zBof' is never read497296313#18446744073709551615#0#1(21@36"Value stored to 'zBof' is never read497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#959#13#0#0#0"1(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#959#18#959#29#36"Value stored to 'zBof' is never read6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#959#13#0#0#10"Dead store0(15"Dead assignment0@36"Value stored to 'zBof' is never read497296313#18446744073709551615#0#1(21@36"Value stored to 'zBof' is never read497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#960#7#0#0#0"1(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#960#12#960#25#36"Value stored to 'zBof' is never read6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#960#7#0#0#10"Dead store0(15"Dead assignment0@34"Value stored to 'nD' is never read497296313#18446744073709551615#0#1(21@34"Value stored to 'nD' is never read497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#1095#13#0#0#0"1(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#1095#13#1095#16#34"Value stored to 'nD' is never read6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#1095#13#0#0#10"Dead store0(14"Dead increment0@27"Dereference of null pointer497296313#18446744073709551615#0#7(17@0"497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#1229#2#1229#2#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#1230#2#1230#2#17@0"497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#1230#2#1230#2#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#1230#33#1230#33#21@30"Assuming pointer value is null497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#1230#33#0#0#0"1(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#1230#33#1230#48#30"Assuming pointer value is null17@0"497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#1230#33#1230#33#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#1233#3#1233#3#17@0"497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#1233#3#1233#3#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#1234#4#1234#4#17@0"497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#0"0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#0#0#0#0#1(3@6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#1234#4#1234#4#6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#1234#17#1234#33#21@27"Dereference of null pointer497296313#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#1234#17#0#0#0"1(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#1234#17#1234#33#27"Dereference of null pointer6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497085884#1234#17#0#0#12"Logic errors0(16"Null dereference0#0#58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c4300911832#1509"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Outil-4C54CC4D9A6C0385.plist"0#
-
-CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c"
-s497296313.815478
-e497296315.394111
-r1
-xAnalyze
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c:206:6:{206:19-206:21}: warning: Value stored to 'nEffectifMax' is never read
-o                                         nEffectifMax=14;
-o                                         ^            ~~
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c:220:6:{220:15-220:27}: warning: Value stored to 'eExtrait' is never read
-o                                         eExtrait=eTasSommet();
-o                                         ^        ~~~~~~~~~~~~
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c:211:7:{211:14-211:24}: warning: Value stored to 'nPoids' is never read
-o                                                 nPoids=uHasard(9);
-o                                                 ^      ~~~~~~~~~~
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c:293:14:{293:27-293:46}: warning: Although the value stored to 'zEffectifMax' is used in the enclosing expression, the value is never actually read from 'zEffectifMax'
-o         for (zGeant=zEffectifMax=trunc(rEffectifMax);zGeant>=0;zGeant--){
-o                     ^            ~~~~~~~~~~~~~~~~~~~
-o4 diagnostics generated.
-lSLF07#2@64"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c497296313#497296315#0(1147"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c:206:6:{206:19-206:21}: warning: Value stored to 'nEffectifMax' is never read                                         nEffectifMax=14;                                         ^            ~~/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c:220:6:{220:15-220:27}: warning: Value stored to 'eExtrait' is never read                                         eExtrait=eTasSommet();                                         ^        ~~~~~~~~~~~~/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c:211:7:{211:14-211:24}: warning: Value stored to 'nPoids' is never read                                                 nPoids=uHasard(9);                                                 ^      ~~~~~~~~~~/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c:293:14:{293:27-293:46}: warning: Although the value stored to 'zEffectifMax' is used in the enclosing expression, the value is never actually read from 'zEffectifMax'         for (zGeant=zEffectifMax=trunc(rEffectifMax);zGeant>=0;zGeant--){                     ^            ~~~~~~~~~~~~~~~~~~~4 diagnostics generated.4(0@44"Value stored to 'nEffectifMax' is never read497296315#18446744073709551615#0#1(21@44"Value stored to 'nEffectifMax' is never read497296315#18446744073709551615#0#0(6@56"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c481279411#206#6#0#0#0"1(6@56"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c481279411#206#19#206#20#44"Value stored to 'nEffectifMax' is never read6@56"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c481279411#206#6#0#0#10"Dead store0(15"Dead assignment0@40"Value stored to 'eExtrait' is never read497296315#18446744073709551615#0#1(21@40"Value stored to 'eExtrait' is never read497296315#18446744073709551615#0#0(6@56"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c481279411#220#6#0#0#0"1(6@56"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c481279411#220#15#220#26#40"Value stored to 'eExtrait' is never read6@56"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c481279411#220#6#0#0#10"Dead store0(15"Dead assignment0@38"Value stored to 'nPoids' is never read497296315#18446744073709551615#0#1(21@38"Value stored to 'nPoids' is never read497296315#18446744073709551615#0#0(6@56"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c481279411#211#7#0#0#0"1(6@56"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c481279411#211#14#211#23#38"Value stored to 'nPoids' is never read6@56"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c481279411#211#7#0#0#10"Dead store0(15"Dead assignment0@133"Although the value stored to 'zEffectifMax' is used in the enclosing expression, the value is never actually read from 'zEffectifMax'497296315#18446744073709551615#0#1(21@133"Although the value stored to 'zEffectifMax' is used in the enclosing expression, the value is never actually read from 'zEffectifMax'497296315#18446744073709551615#0#0(6@56"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c481279411#293#14#0#0#0"1(6@56"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c481279411#293#27#293#45#133"Although the value stored to 'zEffectifMax' is used in the enclosing expression, the value is never actually read from 'zEffectifMax'6@56"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c481279411#293#14#0#0#10"Dead store0(22"Dead nested assignment0#0#56"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c4300911832#1488"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Tas.plist"0#
-
-CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/main.c"
-s497296313.636824
-e497296313.759358
-r1
-xAnalyze
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/main.c
-lSLF07#2@65"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/main.c497296313#497296313#0(0"0(0#0#57"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/main.c4300911832#1490"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/main.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/main.plist"0#
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies497296829#497296829#0(111"[WARN]warning: no rule to process file '$(PROJECT_DIR)/Outil.h' of type sourcecode.c.h for architecture x86_641(22@104"warning: no rule to process file '$(PROJECT_DIR)/Outil.h' of type sourcecode.c.h for architecture x86_64497296829#18446744073709551615#0#0(1@0"0(0#1#0"4300911832#0"0#
-
-CCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Alex.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Alex.c" normal x86_64 c com.apple.compilers.gcc.4_2
-s497085885.240373
-e497085885.362956
-r1
-xCompileC
-xbuild/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Alex.o
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Alex.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@65"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Alex.c497085885#497085885#0(0"0(0#0#57"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Alex.c4300911832#1436"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Alex.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Alex.o"0#
-
-CCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Asynt.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c" normal x86_64 c com.apple.compilers.gcc.4_2
-s497085885.333889
-e497085885.420129
-r1
-xCompileC
-xbuild/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Asynt.o
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@66"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c497085885#497085885#0(0"0(0#0#58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c4300911832#1438"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Asynt.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Asynt.o"0#
-
-CCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Circuit.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c" normal x86_64 c com.apple.compilers.gcc.4_2
-s471430888.335702
-e471430888.401257
-r1
-xCompileC
-xbuild/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Circuit.o
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@71"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c471430888#471430888#0(0"0(0#0#63"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c4300911832#1475"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Circuit.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Circuit.o"0#
-
-CCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Circuit.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Circuit.c" normal x86_64 c com.apple.compilers.gcc.4_2
-s471431446.114931
-e471431446.180674
-r1
-xCompileC
-xbuild/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Circuit.o
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Circuit.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@68"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Circuit.c471431446#471431446#0(0"0(0#0#60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Circuit.c7809643567100341248#1442"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Circuit.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Circuit.o"0#
-
-CCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Cycle.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Cycle.c" normal x86_64 c com.apple.compilers.gcc.4_2
-s497258111.478180
-e497258111.590813
-r1
-xCompileC
-xbuild/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Cycle.o
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Cycle.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@66"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Cycle.c497258111#497258111#0(0"0(0#0#58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Cycle.c4300911832#1438"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Cycle.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Cycle.o"0#
-
-CCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Deque.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Deque.c" normal x86_64 c com.apple.compilers.gcc.4_2
-s471430702.530539
-e471430702.656756
-r1
-xCompileC
-xbuild/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Deque.o
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Deque.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@69"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Deque.c471430702#471430702#0(0"0(0#0#61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Deque.c4300911832#1471"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Deque.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Deque.o"0#
-
-CCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Deque.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Deque.c" normal x86_64 c com.apple.compilers.gcc.4_2
-s497296424.343235
-e497296424.433633
-r1
-xCompileC
-xbuild/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Deque.o
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Deque.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@66"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Deque.c497296424#497296424#0(0"0(0#0#58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Deque.c4300911832#1438"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Deque.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Deque.o"0#
-
-CCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Detruire.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Detruire.c" normal x86_64 c com.apple.compilers.gcc.4_2
-s481280308.814566
-e481280308.896398
-r0
-xCompileC
-xbuild/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Detruire.o
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Detruire.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-oi686-apple-darwin10-gcc-4.2.1: /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Detruire.c: No such file or directory
-oi686-apple-darwin10-gcc-4.2.1: warning: '-x c' after last input file has no effect
-oi686-apple-darwin10-gcc-4.2.1: no input files
-lSLF07#2@69"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Detruire.c481280308#481280308#0(308"i686-apple-darwin10-gcc-4.2.1: /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Detruire.c: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x c' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1481280308#18446744073709551615#0#0(1@0"0(0#0#61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Detruire.c7809643567100341248#1444"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Detruire.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Detruire.o"1#
-
-CCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Erreur.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Erreur.c" normal x86_64 c com.apple.compilers.gcc.4_2
-s497085885.363084
-e497085885.425393
-r1
-xCompileC
-xbuild/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Erreur.o
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Erreur.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@67"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Erreur.c497085885#497085885#0(0"0(0#0#59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Erreur.c4300911832#1440"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Erreur.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Erreur.o"0#
-
-CCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Flot.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Flot.c" normal x86_64 c com.apple.compilers.gcc.4_2
-s471430702.605475
-e471430702.757597
-r1
-xCompileC
-xbuild/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Flot.o
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Flot.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Flot.c: In function 'bFlotCalculer':
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Flot.c:233: warning: unused variable 'sX'
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Flot.c: In function 'bFlotCalculeR2':
-o/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Flot.c:273: warning: unused variable 'bFlot2'
-lSLF07#2@68"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Flot.c471430702#471430702#0(379"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Flot.c: In function 'bFlotCalculer':/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Flot.c:233: warning: unused variable 'sX'/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Flot.c: In function 'bFlotCalculeR2':/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Flot.c:273: warning: unused variable 'bFlot2'2(22@20"Unused variable 'sX'471430702#91#96#0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Flot.c470908834#233#0#233#0#19"unused variable '*'0(22@24"Unused variable 'bFlot2'471430702#279#100#0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Flot.c470908834#273#0#273#0#19"unused variable '*'0(0#0#60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Flot.c4300911832#1469"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Flot.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Flot.o"0#
-
-CCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Flot.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Flot.c" normal x86_64 c com.apple.compilers.gcc.4_2
-s497085884.983272
-e497085885.151281
-r1
-xCompileC
-xbuild/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Flot.o
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Flot.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@65"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Flot.c497085884#497085885#0(0"0(0#0#57"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Flot.c4300911832#1436"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Flot.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Flot.o"0#
-
-CCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Foret.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Foret.c" normal x86_64 c com.apple.compilers.gcc.4_2
-s497085885.290653
-e497085885.370703
-r1
-xCompileC
-xbuild/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Foret.o
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Foret.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@66"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Foret.c497085885#497085885#0(0"0(0#0#58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Foret.c4300911832#1438"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Foret.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Foret.o"0#
-
-CCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Graphe.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c" normal x86_64 c com.apple.compilers.gcc.4_2
-s471430702.522989
-e471430702.739003
-r1
-xCompileC
-xbuild/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Graphe.o
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@70"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c471430702#471430702#0(0"0(0#0#62"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c4300911832#1473"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Graphe.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Graphe.o"0#
-
-CCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Graphe.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c" normal x86_64 c com.apple.compilers.gcc.4_2
-s497296829.044325
-e497296829.183560
-r1
-xCompileC
-xbuild/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Graphe.o
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@67"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c497296829#497296829#0(0"0(0#0#59"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c4300911832#1440"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Graphe.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Graphe.o"0#
-
-CCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Matrice.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c" normal x86_64 c com.apple.compilers.gcc.4_2
-s497258186.939094
-e497258187.031032
-r1
-xCompileC
-xbuild/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Matrice.o
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@68"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c497258186#497258187#0(193"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c: In function 'bMatryceSinguliere':/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c:2093: warning: unused variable 'nT'1(22@20"Unused variable 'nT'497258187#96#97#0(6@60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c497258186#2093#0#2093#0#19"unused variable '*'0(0#0#60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c4300911832#1442"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Matrice.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Matrice.o"0#
-
-CCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Outil-4C54CC4D9A6C0385.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c" normal x86_64 c com.apple.compilers.gcc.4_2
-s471430702.523976
-e471430702.778273
-r1
-xCompileC
-xbuild/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Outil-4C54CC4D9A6C0385.o
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@69"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c471430702#471430702#0(0"0(0#0#61"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c4300911832#1488"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/Outil.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Outil-4C54CC4D9A6C0385.o"0#
-
-CCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Outil-4C54CC4D9A6C0385.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c" normal x86_64 c com.apple.compilers.gcc.4_2
-s497296424.342292
-e497296424.571293
-r1
-xCompileC
-xbuild/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Outil-4C54CC4D9A6C0385.o
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@66"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c497296424#497296424#0(0"0(0#0#58"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c4300911832#1455"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Outil.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Outil-4C54CC4D9A6C0385.o"0#
-
-CCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Tas.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c" normal x86_64 c com.apple.compilers.gcc.4_2
-s497296424.406001
-e497296424.500234
-r1
-xCompileC
-xbuild/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Tas.o
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@64"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c497296424#497296424#0(0"0(0#0#56"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c4300911832#1434"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/Tas.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Tas.o"0#
-
-CCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
-s471430702.521930
-e471430702.605316
-r1
-xCompileC
-xbuild/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/main.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@68"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/main.c471430702#471430702#0(0"0(0#0#60"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/main.c4300911832#1469"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/main.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o"0#
-
-CCompileC build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
-s497296829.043580
-e497296829.091387
-r1
-xCompileC
-xbuild/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/main.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@65"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/main.c497296829#497296829#0(0"0(0#0#57"/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/main.c4300911832#1436"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/main.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o"0#
-
-CLd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug/ProjetSPI3" normal x86_64
-s471430888.401319
-e471430888.420094
-r1
-xLd
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug/ProjetSPI3
-xnormal
-xx86_64
-lSLF07#2@81"Link /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug/ProjetSPI3471430888#471430888#0(0"0(0#0#0"4300911832#589"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug" -filelist "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/ProjetSPI3.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3 12/build/Debug/ProjetSPI3"0#
-
-CLd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/ProjetSPI3" normal x86_64
-s497296829.183678
-e497296829.203519
-r1
-xLd
-x/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/ProjetSPI3
-xnormal
-xx86_64
-lSLF07#2@78"Link /Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/ProjetSPI3497296829#497296829#0(0"0(0#0#0"4300911832#574"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug" -filelist "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/SPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/ProjetSPI3.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/guymorand/Desktop/ENSEIGNEMENT/Licence SPI3/build/Debug/ProjetSPI3"0#
-

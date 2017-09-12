@@ -1,3 +1,0 @@
-/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/main.c: In function 'main':
-/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/main.c:61: warning: implicit declaration of function 'sC4b'
-/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/main.c:61: warning: passing argument 2 of 'GrapheAfficher2' makes pointer from integer without a cast
