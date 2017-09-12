@@ -1,0 +1,714 @@
+TProjetSPI3
+v7
+r0
+t465985507.367078
+cCheck dependencies
+cCompileC build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Graphe.o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Graphe.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Outil-4C54CC4D9A6C0385.o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Outil.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Deque.o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Deque.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/Debug/ProjetSPI3" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B99A23900000000000000EE
+t1268359737
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/assert.h
+c000000004AC326060000000000000DCB
+t1254303238
+s3531
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/ctype.h
+c000000004AC326060000000000002C18
+t1254303238
+s11288
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004AC320BA00000000000004F1
+t1254301882
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC326060000000000004174
+t1254303238
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004AC326060000000000002DF5
+t1254303238
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004AC326060000000000001731
+t1254303238
+s5937
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.c
+c0000000056125CED0000000000001931
+t1444044013
+s6449
+i"Outil.h"
+i"Deque.h"
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.h
+c0000000056125CED000000000000023D
+t1444044013
+s573
+i<stdlib.h>
+i<stdio.h>
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Flot.c
+c00000000561372FA000000000000121F
+t1444115194
+s4639
+i"Outil.h"
+i"Deque.h"
+i"Graphe.h"
+i"Flot.h"
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Flot.h
+c0000000056135F6700000000000000DB
+t1444110183
+s219
+i<stdlib.h>
+i<stdio.h>
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c
+c00000000561361F90000000000001DE6
+t1444110841
+s7654
+i"Outil.h"
+i"Deque.h"
+i"Graphe.h"
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.h
+c000000005613722900000000000002F2
+t1444114985
+s754
+i<stdlib.h>
+i<stdio.h>
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Outil.c
+c000000005614B3F5000000000000234B
+t1444197365
+s9035
+i"Outil.h"
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Outil.h
+c000000005614B31D00000000000008F1
+t1444197149
+s2289
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+i<ctype.h>
+i<string.h>
+i<assert.h>
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug/ProjetSPI3
+t1444197330
+s38752
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Deque.o
+t1444197165
+s15044
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Flot.o
+t1444195623
+s10428
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Graphe.o
+t1444197165
+s13444
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Outil-4C54CC4D9A6C0385.o
+t1444197330
+s33448
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/ProjetSPI3.LinkFileList
+c000000005614B32D0000000000000211
+t1444197165
+s529
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/deque.o
+t1443718437
+s14120
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o
+t1444197165
+s6960
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/outil-4C54CC4D9A6C0385.o
+t1443717294
+s11424
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/outil.o
+t2
+s0
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Deque.plist
+t1444065195
+s1623
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Flot.plist
+t1444109025
+s275
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Graphe.plist
+t2
+s0
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Outil-4C54CC4D9A6C0385.plist
+t1444104713
+s275
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/deque.plist
+t1443714167
+s275
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/main.plist
+t1444109025
+s1931
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/outil-4C54CC4D9A6C0385.plist
+t1443714167
+s275
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/deque.c
+c00000000560D65250000000000001296
+t1443718437
+s4758
+i"outil.h"
+i"deque.h"
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/deque.h
+c00000000560D6525000000000000021D
+t1443718437
+s541
+i<stdlib.h>
+i<stdio.h>
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/main.c
+c000000005614B22C00000000000007A2
+t1444196908
+s1954
+i"Outil.h"
+i"Deque.h"
+i"Graphe.h"
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/outil.c
+c00000000560D60AE0000000000000773
+t1443717294
+s1907
+i"outil.h"
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/outil.h
+c00000000560D5C61000000000000036A
+t1443716193
+s874
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+i<ctype.h>
+i<string.h>
+i<assert.h>
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Deque.c
+c0000000056125CED0000000000001931
+t1444044013
+s6449
+i"Outil.h"
+i"Deque.h"
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Deque.h
+c0000000056125CED000000000000023D
+t1444044013
+s573
+i<stdlib.h>
+i<stdio.h>
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Graphe.c
+c00000000561626970000000000001ECB
+t1444292247
+s7883
+i"Outil.h"
+i"Deque.h"
+i"Graphe.h"
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Graphe.h
+c000000005616264A0000000000000322
+t1444292170
+s802
+i<stdlib.h>
+i<stdio.h>
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Outil.c
+c00000000561628630000000000002A9B
+t1444292707
+s10907
+i"Outil.h"
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Outil.h
+c000000005616286300000000000009E5
+t1444292707
+s2533
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+i<ctype.h>
+i<string.h>
+i<assert.h>
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/Debug/ProjetSPI3
+t1444292707
+s39832
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Deque.o
+t1444292707
+s15036
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Graphe.o
+t1444292707
+s13680
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Outil-4C54CC4D9A6C0385.o
+t1444292707
+s37988
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/ProjetSPI3.LinkFileList
+c0000000056160ECA0000000000000201
+t1444286154
+s513
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o
+t1444292707
+s7732
+
+N/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/main.c
+c0000000056162863000000000000087C
+t1444292707
+s2172
+i"Outil.h"
+i"Deque.h"
+i"Graphe.h"
+
+N/Users/guymorand/Desktop/ProjetSPI3/build/Debug/ProjetSPI3
+t1414057270
+s14976
+
+N/Users/guymorand/Desktop/ProjetSPI3/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/ProjetSPI3.LinkFileList
+c000000005448A9EC000000000000006F
+t1414048236
+s111
+
+N/Users/guymorand/Desktop/ProjetSPI3/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o
+t1414057267
+s11360
+
+N/Users/guymorand/Desktop/ProjetSPI3/main.c
+c000000005448CDDE00000000000012A2
+t1414057438
+s4770
+i<stdio.h>
+i<assert.h>
+i<math.h>
+
+N/Users/guymorand/Desktop/SPI3  TP en C/build/Debug/ProjetSPI3
+t1414057270
+s14976
+
+N/Users/guymorand/Desktop/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/ProjetSPI3.LinkFileList
+c000000005448A9EC000000000000006F
+t1414048236
+s111
+
+N/Users/guymorand/Desktop/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o
+t1414057267
+s11360
+
+N/Users/guymorand/Desktop/SPI3  TP en C/main.c
+c000000005448CDDE00000000000012A2
+t1414057438
+s4770
+i<stdio.h>
+i<assert.h>
+i<math.h>
+
+CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.c"
+s465757995.481402
+e465757995.525628
+r1
+xAnalyze
+x/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.c
+oIn file included from /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.c:2:
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.h:1:20: warning: extra tokens at end of #include directive [-Wextra-tokens]
+o #include <stdlib.h>;
+o                    ^
+o                    //
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.h:2:19: warning: extra tokens at end of #include directive [-Wextra-tokens]
+o #include <stdio.h>;
+o                   ^
+o                   //
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.c:147:6:{147:14-147:29}: warning: Value stored to 'sSource' is never read
+o                                         sSource=sDequeDefiler();
+o                                         ^       ~~~~~~~~~~~~~~~
+o3 diagnostics generated.
+lSLF07#2@67"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.c465757995#465757995#0(772"In file included from /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.c:2:/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.h:1:20: warning: extra tokens at end of #include directive [-Wextra-tokens] #include <stdlib.h>;                    ^                    ///Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.h:2:19: warning: extra tokens at end of #include directive [-Wextra-tokens] #include <stdio.h>;                   ^                   ///Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.c:147:6:{147:14-147:29}: warning: Value stored to 'sSource' is never read                                         sSource=sDequeDefiler();                                         ^       ~~~~~~~~~~~~~~~3 diagnostics generated.1(0@39"Value stored to 'sSource' is never read465757995#18446744073709551615#0#1(21@39"Value stored to 'sSource' is never read465757995#18446744073709551615#0#0(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.c465736813#147#6#0#0#0"1(6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.c465736813#147#14#147#28#39"Value stored to 'sSource' is never read6@59"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.c465736813#147#6#0#0#10"Dead store0(15"Dead assignment0#0#59"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.c4300911832#1545"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Deque.plist"0#
+
+CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Flot.c"
+s465801825.608586
+e465801825.662428
+r1
+xAnalyze
+x/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Flot.c
+oIn file included from /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Flot.c:2:
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.h:1:20: warning: extra tokens at end of #include directive [-Wextra-tokens]
+o #include <stdlib.h>;
+o                    ^
+o                    //
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.h:2:19: warning: extra tokens at end of #include directive [-Wextra-tokens]
+o #include <stdio.h>;
+o                   ^
+o                   //
+oIn file included from /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Flot.c:3:
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.h:1:20: warning: extra tokens at end of #include directive [-Wextra-tokens]
+o #include <stdlib.h>;
+o                    ^
+o                    //
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.h:2:19: warning: extra tokens at end of #include directive [-Wextra-tokens]
+o #include <stdio.h>;
+o                   ^
+o                   //
+oIn file included from /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Flot.c:4:
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Flot.h:1:20: warning: extra tokens at end of #include directive [-Wextra-tokens]
+o #include <stdlib.h>;
+o                    ^
+o                    //
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Flot.h:2:19: warning: extra tokens at end of #include directive [-Wextra-tokens]
+o #include <stdio.h>;
+o                   ^
+o                   //
+o6 diagnostics generated.
+lSLF07#2@66"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Flot.c465801825#465801825#0(1474"In file included from /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Flot.c:2:/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.h:1:20: warning: extra tokens at end of #include directive [-Wextra-tokens] #include <stdlib.h>;                    ^                    ///Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.h:2:19: warning: extra tokens at end of #include directive [-Wextra-tokens] #include <stdio.h>;                   ^                   //In file included from /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Flot.c:3:/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.h:1:20: warning: extra tokens at end of #include directive [-Wextra-tokens] #include <stdlib.h>;                    ^                    ///Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.h:2:19: warning: extra tokens at end of #include directive [-Wextra-tokens] #include <stdio.h>;                   ^                   //In file included from /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Flot.c:4:/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Flot.h:1:20: warning: extra tokens at end of #include directive [-Wextra-tokens] #include <stdlib.h>;                    ^                    ///Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Flot.h:2:19: warning: extra tokens at end of #include directive [-Wextra-tokens] #include <stdio.h>;                   ^                   //6 diagnostics generated.0(0#0#58"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Flot.c4300911832#1543"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Flot.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Flot.plist"0#
+
+CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c"
+s465801825.606741
+e465801825.655195
+r1
+xAnalyze
+x/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c
+oIn file included from /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c:2:
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.h:1:20: warning: extra tokens at end of #include directive [-Wextra-tokens]
+o #include <stdlib.h>;
+o                    ^
+o                    //
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.h:2:19: warning: extra tokens at end of #include directive [-Wextra-tokens]
+o #include <stdio.h>;
+o                   ^
+o                   //
+oIn file included from /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c:3:
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.h:1:20: warning: extra tokens at end of #include directive [-Wextra-tokens]
+o #include <stdlib.h>;
+o                    ^
+o                    //
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.h:2:19: warning: extra tokens at end of #include directive [-Wextra-tokens]
+o #include <stdio.h>;
+o                   ^
+o                   //
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c:107:27:{107:24-107:25}: error: no member named 'nSommetEnTout'
+o                 Vrai2(bGrapheAmorceR,G->nSommetEnTout>0);
+o                                      ~  ^
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c:108:5:{108:3-108:4}: error: member reference base type 'graf *' is not a structure or union
+o                 G.nArcEnTouT=0;
+o                 ~ ^
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c:109:5:{109:3-109:4}: error: member reference base type 'graf *' is not a structure or union
+o                 G.aHeD[1]=1;
+o                 ~ ^
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c:110:26:{110:24-110:25}: error: member reference base type 'graf *' is not a structure or union
+o                 for (uPas=1,sX=1;sX<=G.nSommetEnTouT;sX++){
+o                                      ~ ^
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c:111:28:{111:26-111:27}: error: member reference base type 'graf *' is not a structure or union
+o                         sY=uModulo1(sX+uPas++,G.nSommetEnTouT);
+o                                               ~ ^
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c:112:6:{112:4-112:5}: error: member reference base type 'graf *' is not a structure or union
+o                         G.aHeD[sX+1]=G.aHeD[sX];
+o                         ~ ^
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c:114:7:{114:5-114:6}: error: member reference base type 'graf *' is not a structure or union
+o                                 G.sSuK[sX]=sY;
+o                                 ~ ^
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c:115:7:{115:5-115:6}: error: member reference base type 'graf *' is not a structure or union
+o                                 G.aHeD[sX+1]++;
+o                                 ~ ^
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c:116:7:{116:5-116:6}: error: member reference base type 'graf *' is not a structure or union
+o                                 G.nArcEnTouT++;
+o                                 ~ ^
+o13 diagnostics generated.
+lSLF07#2@68"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c465801825#465801825#0(3114"In file included from /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c:2:/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.h:1:20: warning: extra tokens at end of #include directive [-Wextra-tokens] #include <stdlib.h>;                    ^                    ///Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.h:2:19: warning: extra tokens at end of #include directive [-Wextra-tokens] #include <stdio.h>;                   ^                   //In file included from /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c:3:/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.h:1:20: warning: extra tokens at end of #include directive [-Wextra-tokens] #include <stdlib.h>;                    ^                    ///Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.h:2:19: warning: extra tokens at end of #include directive [-Wextra-tokens] #include <stdio.h>;                   ^                   ///Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c:107:27:{107:24-107:25}: error: no member named 'nSommetEnTout'                 Vrai2(bGrapheAmorceR,G->nSommetEnTout>0);                                      ~  ^/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c:108:5:{108:3-108:4}: error: member reference base type 'graf *' is not a structure or union                 G.nArcEnTouT=0;                 ~ ^/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c:109:5:{109:3-109:4}: error: member reference base type 'graf *' is not a structure or union                 G.aHeD[1]=1;                 ~ ^/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c:110:26:{110:24-110:25}: error: member reference base type 'graf *' is not a structure or union                 for (uPas=1,sX=1;sX<=G.nSommetEnTouT;sX++){                                      ~ ^/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c:111:28:{111:26-111:27}: error: member reference base type 'graf *' is not a structure or union                         sY=uModulo1(sX+uPas++,G.nSommetEnTouT);                                               ~ ^/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c:112:6:{112:4-112:5}: error: member reference base type 'graf *' is not a structure or union                         G.aHeD[sX+1]=G.aHeD[sX];                         ~ ^/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c:114:7:{114:5-114:6}: error: member reference base type 'graf *' is not a structure or union                                 G.sSuK[sX]=sY;                                 ~ ^/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c:115:7:{115:5-115:6}: error: member reference base type 'graf *' is not a structure or union                                 G.aHeD[sX+1]++;                                 ~ ^/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c:116:7:{116:5-116:6}: error: member reference base type 'graf *' is not a structure or union                                 G.nArcEnTouT++;                                 ~ ^13 diagnostics generated.0(0#0#60"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c4300911832#1547"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Graphe.plist"0#
+
+CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Outil.c"
+s465797513.194912
+e465797513.298675
+r1
+xAnalyze
+x/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Outil.c
+lSLF07#2@67"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Outil.c465797513#465797513#0(0"0(0#0#59"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Outil.c4300911832#1562"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Outil.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/Outil-4C54CC4D9A6C0385.plist"0#
+
+CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/deque.c"
+s465406967.016886
+e465406967.139059
+r1
+xAnalyze
+x/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/deque.c
+oIn file included from /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/deque.c:5:
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/deque.h:1:20: warning: extra tokens at end of #include directive [-Wextra-tokens]
+o #include <stdlib.h>;
+o                    ^
+o                    //
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/deque.h:2:19: warning: extra tokens at end of #include directive [-Wextra-tokens]
+o #include <stdio.h>;
+o                   ^
+o                   //
+o2 diagnostics generated.
+lSLF07#2@67"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/deque.c465406967#465406967#0(509"In file included from /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/deque.c:5:/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/deque.h:1:20: warning: extra tokens at end of #include directive [-Wextra-tokens] #include <stdlib.h>;                    ^                    ///Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/deque.h:2:19: warning: extra tokens at end of #include directive [-Wextra-tokens] #include <stdio.h>;                   ^                   //2 diagnostics generated.0(0#0#59"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/deque.c4300911832#1545"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/deque.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/deque.plist"0#
+
+CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/main.c"
+s465801825.605768
+e465801825.651450
+r1
+xAnalyze
+x/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/main.c
+oIn file included from /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/main.c:2:
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.h:1:20: warning: extra tokens at end of #include directive [-Wextra-tokens]
+o #include <stdlib.h>;
+o                    ^
+o                    //
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.h:2:19: warning: extra tokens at end of #include directive [-Wextra-tokens]
+o #include <stdio.h>;
+o                   ^
+o                   //
+oIn file included from /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/main.c:3:
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.h:1:20: warning: extra tokens at end of #include directive [-Wextra-tokens]
+o #include <stdlib.h>;
+o                    ^
+o                    //
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.h:2:19: warning: extra tokens at end of #include directive [-Wextra-tokens]
+o #include <stdio.h>;
+o                   ^
+o                   //
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/main.c:98:15:{98:9-98:14}: warning: more data arguments than '%' conversions [-Wformat-extra-args]
+o         printf(")\n",sTrappe);
+o                ~~~~~ ^
+o/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/main.c:123:61:{123:72-123:97}: warning: Although the value stored to 'nArcEnTout' is used in the enclosing expression, the value is never actually read from 'nArcEnTout'
+o         printf("Graphe à %d sommets et %d arcs:\n",nkSommetEnTouT,nArcEnTout=aHeaD[nkSommetEnTouT+1]-1);
+o                                                                    ^          ~~~~~~~~~~~~~~~~~~~~~~~~~
+o6 diagnostics generated.
+lSLF07#2@66"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/main.c465801825#465801825#0(1635"In file included from /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/main.c:2:/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.h:1:20: warning: extra tokens at end of #include directive [-Wextra-tokens] #include <stdlib.h>;                    ^                    ///Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.h:2:19: warning: extra tokens at end of #include directive [-Wextra-tokens] #include <stdio.h>;                   ^                   //In file included from /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/main.c:3:/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.h:1:20: warning: extra tokens at end of #include directive [-Wextra-tokens] #include <stdlib.h>;                    ^                    ///Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.h:2:19: warning: extra tokens at end of #include directive [-Wextra-tokens] #include <stdio.h>;                   ^                   ///Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/main.c:98:15:{98:9-98:14}: warning: more data arguments than '%' conversions [-Wformat-extra-args]         printf(")\n",sTrappe);                ~~~~~ ^/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/main.c:123:61:{123:72-123:97}: warning: Although the value stored to 'nArcEnTout' is used in the enclosing expression, the value is never actually read from 'nArcEnTout'         printf("Graphe à %d sommets et %d arcs:\n",nkSommetEnTouT,nArcEnTout=aHeaD[nkSommetEnTouT+1]-1);                                                                    ^          ~~~~~~~~~~~~~~~~~~~~~~~~~6 diagnostics generated.1(0@129"Although the value stored to 'nArcEnTout' is used in the enclosing expression, the value is never actually read from 'nArcEnTout'465801825#18446744073709551615#0#1(21@129"Although the value stored to 'nArcEnTout' is used in the enclosing expression, the value is never actually read from 'nArcEnTout'465801825#18446744073709551615#0#0(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/main.c465737438#123#61#0#0#0"1(6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/main.c465737438#123#72#123#96#129"Although the value stored to 'nArcEnTout' is used in the enclosing expression, the value is never actually read from 'nArcEnTout'6@58"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/main.c465737438#123#61#0#0#10"Dead store0(22"Dead nested assignment0#0#58"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/main.c4300911832#1543"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/main.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/main.plist"0#
+
+CAnalyze "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/outil.c"
+s465406967.017772
+e465406967.137728
+r1
+xAnalyze
+x/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/outil.c
+lSLF07#2@67"Analyze /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/outil.c465406967#465406967#0(0"0(0#0#59"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/outil.c4300911832#1562"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources" --analyze "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/outil.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/StaticAnalyzer/normal/x86_64/outil-4C54CC4D9A6C0385.plist"0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies465985507#465985507#0(111"[WARN]warning: no rule to process file '$(PROJECT_DIR)/Outil.h' of type sourcecode.c.h for architecture x86_641(22@104"warning: no rule to process file '$(PROJECT_DIR)/Outil.h' of type sourcecode.c.h for architecture x86_64465985507#18446744073709551615#0#0(1@0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Deque.o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s465889965.579372
+e465889965.652277
+r1
+xCompileC
+xbuild/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Deque.o
+x/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.c465889965#465889965#0(0"0(0#0#59"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.c4300911832#1491"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Deque.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Deque.o"0#
+
+CCompileC build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Deque.o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Deque.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s465985507.228996
+e465985507.319826
+r1
+xCompileC
+xbuild/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Deque.o
+x/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Deque.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Deque.c465985507#465985507#0(0"0(0#0#55"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Deque.c4300911832#1447"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Deque.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Deque.o"0#
+
+CCompileC build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Flot.o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Flot.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s465888422.945214
+e465888423.369450
+r1
+xCompileC
+xbuild/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Flot.o
+x/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Flot.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Flot.c465888422#465888423#0(0"0(0#0#58"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Flot.c3275089324280537600#1489"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Flot.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Flot.o"0#
+
+CCompileC build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Graphe.o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s465889965.577721
+e465889965.652059
+r1
+xCompileC
+xbuild/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Graphe.o
+x/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c465889965#465889965#0(0"0(0#0#60"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c4300911832#1493"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Graphe.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Graphe.o"0#
+
+CCompileC build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Graphe.o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Graphe.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s465985507.227080
+e465985507.314625
+r1
+xCompileC
+xbuild/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Graphe.o
+x/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Graphe.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Graphe.c465985507#465985507#0(0"0(0#0#56"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Graphe.c4300911832#1449"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Graphe.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Graphe.o"0#
+
+CCompileC build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Outil-4C54CC4D9A6C0385.o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Outil.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s465890130.729897
+e465890130.797223
+r1
+xCompileC
+xbuild/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Outil-4C54CC4D9A6C0385.o
+x/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Outil.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Outil.c465890130#465890130#0(0"0(0#0#59"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Outil.c4300911832#1508"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/Outil.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Outil-4C54CC4D9A6C0385.o"0#
+
+CCompileC build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Outil-4C54CC4D9A6C0385.o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Outil.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s465985507.227726
+e465985507.350308
+r1
+xCompileC
+xbuild/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Outil-4C54CC4D9A6C0385.o
+x/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Outil.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Outil.c465985507#465985507#0(0"0(0#0#55"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Outil.c4300911832#1464"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/Outil.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/Outil-4C54CC4D9A6C0385.o"0#
+
+CCompileC build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/deque.o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/deque.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s465411237.062015
+e465411237.123982
+r1
+xCompileC
+xbuild/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/deque.o
+x/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/deque.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/deque.c465411237#465411237#0(0"0(0#0#59"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/deque.c4300911832#1491"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/deque.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/deque.o"0#
+
+CCompileC build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s465889965.576932
+e465889965.635171
+r1
+xCompileC
+xbuild/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o
+x/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/main.c465889965#465889965#0(0"0(0#0#58"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/main.c4300911832#1489"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/main.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s465985507.225870
+e465985507.314423
+r1
+xCompileC
+xbuild/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o
+x/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/main.c465985507#465985507#0(0"0(0#0#54"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/main.c4300911832#1445"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/main.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o "/Users/guymorand/Desktop/SPI3  TP en C/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o /Users/guymorand/Desktop/ProjetSPI3/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s435750070.467531
+e435750070.468312
+r1
+xCompileC
+xbuild/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o
+x/Users/guymorand/Desktop/ProjetSPI3/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/guymorand/Desktop/ProjetSPI3/main.c435750070#435750070#0(0"0(0#0#42"/Users/guymorand/Desktop/ProjetSPI3/main.c4300911832#1291"    cd /Users/guymorand/Desktop/ProjetSPI3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/guymorand/Desktop/ProjetSPI3/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap -I/Users/guymorand/Desktop/ProjetSPI3/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap -I/Users/guymorand/Desktop/ProjetSPI3/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap -iquote /Users/guymorand/Desktop/ProjetSPI3/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap -F/Users/guymorand/Desktop/ProjetSPI3/build/Debug -I/Users/guymorand/Desktop/ProjetSPI3/build/Debug/include -I/Users/guymorand/Desktop/ProjetSPI3/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64 -I/Users/guymorand/Desktop/ProjetSPI3/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources -c /Users/guymorand/Desktop/ProjetSPI3/main.c -o /Users/guymorand/Desktop/ProjetSPI3/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/outil-4C54CC4D9A6C0385.o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/outil.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s465410094.385511
+e465410094.442642
+r1
+xCompileC
+xbuild/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/outil-4C54CC4D9A6C0385.o
+x/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/outil.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/outil.c465410094#465410094#0(0"0(0#0#59"/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/outil.c4300911832#1508"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-generated-files.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-own-target-headers.hmap" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-all-target-headers.hmap" -iquote "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/ProjetSPI3-project-headers.hmap" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug/include" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources/x86_64" "-I/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/DerivedSources" -c "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/outil.c" -o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/outil-4C54CC4D9A6C0385.o"0#
+
+CCompileC build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/outil.o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/outil.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug/ProjetSPI3" normal x86_64
+s465890130.797441
+e465890130.813736
+r1
+xLd
+x/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug/ProjetSPI3
+xnormal
+xx86_64
+lSLF07#2@79"Link /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug/ProjetSPI3465890130#465890130#0(0"0(0#0#0"4300911832#585"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug" -filelist "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/ProjetSPI3.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/build/Debug/ProjetSPI3"0#
+
+CLd "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/Debug/ProjetSPI3" normal x86_64
+s465985507.350391
+e465985507.367023
+r1
+xLd
+x/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/Debug/ProjetSPI3
+xnormal
+xx86_64
+lSLF07#2@75"Link /Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/Debug/ProjetSPI3465985507#465985507#0(0"0(0#0#0"4300911832#565"    cd "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/Debug" "-F/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/Debug" -filelist "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/ProjetSPI3.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3 C TP/build/Debug/ProjetSPI3"0#
+
+CLd "/Users/guymorand/Desktop/SPI3  TP en C/build/Debug/ProjetSPI3" normal x86_64
+r0
+
+CLd /Users/guymorand/Desktop/ProjetSPI3/build/Debug/ProjetSPI3 normal x86_64
+s435750070.468356
+e435750070.481807
+r1
+xLd
+x/Users/guymorand/Desktop/ProjetSPI3/build/Debug/ProjetSPI3
+xnormal
+xx86_64
+lSLF07#2@63"Link /Users/guymorand/Desktop/ProjetSPI3/build/Debug/ProjetSPI3435750070#435750070#0(0"0(0#0#0"4300911832#495"    cd /Users/guymorand/Desktop/ProjetSPI3    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/guymorand/Desktop/ProjetSPI3/build/Debug -F/Users/guymorand/Desktop/ProjetSPI3/build/Debug -filelist /Users/guymorand/Desktop/ProjetSPI3/build/ProjetSPI3.build/Debug/ProjetSPI3.build/Objects-normal/x86_64/ProjetSPI3.LinkFileList -mmacosx-version-min=10.6 -o /Users/guymorand/Desktop/ProjetSPI3/build/Debug/ProjetSPI30#
+

@@ -1,0 +1,90 @@
+1. GÉNÉRATEUR DE CODE
+Ce qui est généré ?
+
+		Ent	S
+	+
+		Id	2
+<-
+	Id	S
+
+Machine à pile
+EQUals
+EMPile x
+ADD SUB MUL DIV
+STOcker
+CHArger (interprète le sommet de pile comme une case mémoire)
+BRAnchement
+BGE BGT BLE BLT BEZ BNZ
+ Greater Less Than Equak Zero Not
+
+Jeu d'instruction généré
+1. EMP 25
+2. EMP 25
+3. CHA
+4. EMP 2
+5. ADD
+6. STO
+
+Code généré à la compilation
+1.	S = 25
+	fprintf(toto, "EMP %s \n", S)
+2.	Idem
+3.	fprintf(toto, "CHA\n")
+4.	fprintf(toto, "EMP 2\n")
+5.  fprintf(toto, "ADD\n")
+6.	fprintf(toto, "STO\n")
+
+2. OPTIMISATION DE CODE
+1. 	A <- B
+2. 	B <- B + A
+3. 	C <- C - B
+4. 	D <- abs(A)				<= Inutile
+5. 	si A > 0
+6.		D <- A
+7. 	sinon
+8.		D <- 0
+9. 	C <- C + D				<= Déplacer entre 6 et 7
+
+3.
+1. 	C <- (A + B) * (A + B)	<= A² + 2 A * B + B²
+2. 	D <- (A - B) * (A - B)	<= A² - 2 A * B + B²
+3. 	C <- C - D				<= 4 * A * B
+4. 	si C mod 4 = 0			<= Sera tout le temps utilisé ...
+5.		C <- 0
+6. 	sinon					<= ... Donc inutile
+7.		S <- 0
+8.		rep D de 1 à 10
+9.			S <- S + C
+10.		frep
+11. fsi
+12.	ecrire S
+
+Donc
+1.	D <- (A - B) * (A - B)
+2.	C <- 0
+3.	Ecrire S
+
+4.
+1.	A <- B + 1
+2.	rep ttq A < B			<= 	si A < B
+3.		S <- S + 1					S <- S + B - A
+4.		A <- A + 1					A <- B
+5.	frep						fsi
+6.	rep jsq A < B
+7.		S <- S - 1
+8.		B <- B - 1
+9.	frep
+
+5.
+1.	rep C de 1 à 4			<= Equivalent à S <- S + 4
+2.		S <- S + 1
+3.	frep
+4.	S <- S + 1				<= Donc équivalent à S <- S + 5
+5.	si S > 0
+6.		S <- 0
+7.	fsi
+8.	rep ttq S < 0
+9.		S <- S + 1
+10.	frep
+
+Équivalent à S <- 0

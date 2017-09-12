@@ -1,0 +1,8 @@
+/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/outil.c:3:19: error: outil.h: No such file or directory
+/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/outil.c:5: error: expected declaration specifiers or '...' before 'iDedans'
+/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/outil.c:5: error: expected declaration specifiers or '...' before 'iMax'
+/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/outil.c: In function 'bCroit':
+/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/outil.c:7: error: 'iDedans' undeclared (first use in this function)
+/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/outil.c:7: error: (Each undeclared identifier is reported only once
+/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/outil.c:7: error: for each function it appears in.)
+/Users/guymorand/Desktop/ENSEIGNEMENT/SPI3  TP en C/outil.c:7: error: 'iMax' undeclared (first use in this function)
