@@ -1,3 +1,6 @@
-M1 ISI - 177UD01 / ENSIM -Génie Logiciel et Modélisation : GLM17
+M1 Info 177UD01 / ENSIM - Génie Logiciel et Modélisation : GLM17
 MAN M1, POO JAVA : GO2017
-M1 Info - Représentation et Modélisation des Connaissances - 177EN005 : M1IA2017
+M1 Info - Représentation et Modélisation des Connaissances : M1IA2017
+M1 INFO Anglais 2017-2018 : CANDY2016
+Apprentissage Automatique : MAA578
+
