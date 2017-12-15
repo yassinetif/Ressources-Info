@@ -1,0 +1,10 @@
+#
+# Directories
+#
+
+DirCommun=./Commun
+DirTDA=./TDA
+DirJeu=./Jeu
+DirMvt=./Mvt
+DirEcran=./Ecran
+DirEtu=./Etudiant

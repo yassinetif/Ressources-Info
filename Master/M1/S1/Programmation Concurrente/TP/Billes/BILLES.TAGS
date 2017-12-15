@@ -1,0 +1,414 @@
+
+Commun/commun.h,169
+#define _COMMUN_H_2,19
+typedef short int dim_t 20,272
+#define FICHIER_LG_NOM 33,596
+#define DIR_LG_NOM 34,625
+#define DIM_NULL 35,650
+#define STRING_LG_MAX 36,670
+
+Commun/direction.c,514
+static int tab_dir_opp[tab_dir_opp15,167
+direction_t direction_affecter(155,3386
+err_t cb_direction_affecter(161,3500
+direction_t direction_suivante(167,3646
+void direction_afficher(173,3725
+char * direction_string_afficher(199,4268
+direction_t direction_random(228,4860
+direction_t direction_opposee_random(238,5055
+direction_t direction_opposee_suivante(247,5341
+int direction_opposee_nb(261,5774
+direction_t direction_opposee_premier(269,5927
+direction_t direction_opposee_random_suivante(277,6099
+
+Commun/direction.h,1153
+#define _DIRECTION_H_2,22
+typedef enum direction_s 29,445
+typedef enum direction_s { NULLE_PART 29,445
+typedef enum direction_s { NULLE_PART , NORD 29,445
+typedef enum direction_s { NULLE_PART , NORD , NORD_EST 29,445
+typedef enum direction_s { NULLE_PART , NORD , NORD_EST , EST 29,445
+typedef enum direction_s { NULLE_PART , NORD , NORD_EST , EST , SUD_EST 29,445
+typedef enum direction_s { NULLE_PART , NORD , NORD_EST , EST , SUD_EST , SUD 29,445
+typedef enum direction_s { NULLE_PART , NORD , NORD_EST , EST , SUD_EST , SUD , SUD_OUEST 29,445
+typedef enum direction_s { NULLE_PART , NORD , NORD_EST , EST , SUD_EST , SUD , SUD_OUEST , OUEST 29,445
+typedef enum direction_s { NULLE_PART , NORD , NORD_EST , EST , SUD_EST , SUD , SUD_OUEST , OUEST , NORD_OUEST 29,445
+typedef enum direction_s { NULLE_PART , NORD , NORD_EST , EST , SUD_EST , SUD , SUD_OUEST , OUEST , NORD_OUEST , FIN_DIRECTION_T 29,445
+typedef enum direction_s { NULLE_PART , NORD , NORD_EST , EST , SUD_EST , SUD , SUD_OUEST , OUEST , NORD_OUEST , FIN_DIRECTION_T } direction_t 29,445
+#define DIR_PREMIER 38,750
+#define DIR_SENTINELLE 46,892
+#define DIR_NB 52,1003
+
+Commun/erreur.c,28
+void erreur_afficher(7,102
+
+Commun/erreur.h,516
+#define _ERREUR_H_2,19
+#define ERR_DIRECTION_UNK	24,242
+#define ERR_COORD_NULL	32,374
+#define ERR_BILLE_NULL	40,521
+#define ERR_CASE_NULL	48,666
+#define ERR_CASE_TYPE	49,748
+#define ERR_ZONE_NULL	59,877
+#define ERR_ZONE_COORD	60,959
+#define ERR_AIRE_NULL	69,1107
+#define ERR_AIRE_VALIDE	70,1189
+#define ERR_AIRE_COORD	71,1244
+#define ERR_AIRE_PLEINE	72,1318
+#define ERR_ECRAN_NULL	80,1492
+#define ERR_MVT_BILLE_ETOUFFEMENT	88,1644
+#define ERR_MVT_BILLE_AVANCER	89,1752
+#define ERR_ERREUR_FIN	92,1859
+
+Commun/obstacle.c,215
+obstacle_t obstacle_affecter(14,165
+err_t cb_obstacle_affecter(20,287
+obstacle_t obstacle_suivant(26,440
+void obstacle_afficher(32,521
+char * obstacle_string_afficher(54,994
+obstacle_t obstacle_random(79,1515
+
+Commun/obstacle.h,338
+#define _OBSTACLE_H_2,21
+typedef enum obstacle_s 28,587
+  { INFORME 29,612
+    VERTICAL 30,651
+    HORIZONTAL 31,691
+    ROND 32,734
+    ANGLE_FERME 33,766
+    ANGLE_OUVERT 34,825
+    FIN_OBSTACLE_T	35,884
+  } obstacle_t 36,935
+#define OBSTACLE_PREMIER 44,1111
+#define OBSTACLE_SENTINELLE 52,1262
+#define OBSTACLE_NB 58,1379
+
+Commun/test_direction.c,11
+main(5,48
+
+Commun/test_erreur.c,11
+main(6,45
+
+Commun/test_obstacle.c,11
+main(5,47
+
+Commun/test_vitesse.c,12
+main(9,105
+
+Commun/vitesse.c,64
+void vitesse_afficher(10,88
+vitesse_t vitesse_affecter(16,162
+
+Commun/vitesse.h,70
+#define _VITESSE_H_2,20
+typedef unsigned short int vitesse_t 16,201
+
+Ecran/ecran.c,954
+WINDOW * ecran_aire_lire(14,178
+WINDOW * ecran_messages_lire(20,269
+ligne_id_t  ecran_hauteur_aire_lire(26,368
+ligne_id_t  ecran_largeur_aire_lire(32,472
+ligne_id_t  ecran_y_messages_lire(38,576
+ecran_t * ecran_creer(48,719
+err_t ecran_detruire(161,4061
+void ecran_message_afficher(196,4750
+void ecran_message_pause_afficher(217,5252
+void ecran_message_effacer(227,5448
+void ecran_case_libre_afficher(243,5730
+void ecran_case_zone_libre_afficher(250,5846
+void ecran_case_unk_afficher(259,5992
+void ecran_bille_afficher(273,6145
+void ecran_case_afficher(288,6480
+err_t ecran_mvt_bille_afficher(319,7087
+err_t ecran_bille_desintegrer(372,8376
+err_t ecran_bille_deplacer(413,10272
+err_t ecran_cases_afficher(474,11952
+err_t ecran_afficher(539,13647
+booleen_t  ecran_existe(558,13944
+void ecran_stderr_afficher(573,14177
+void ecran_bille_temporiser(606,14980
+err_t ecran_bille_poser(624,15444
+err_t ecran_bille_positionner(669,16795
+
+Ecran/ecran.h,338
+#define _ECRAN_H_2,18
+#define ECRAN_NULL 29,518
+#define ECRAN_LG_MESS 35,610
+#define ECRAN_PAUSE_MESS 41,752
+#define ECRAN_ATTENTE_MAX 49,998
+#define ECRAN_ATTENTE_MIN 50,1032
+#define ECRAN_TEMPS_EXPLOSION 51,1064
+int Ecran_Nb_Ref 61,1241
+typedef unsigned int ligne_id_t 71,1355
+typedef struct ecran_s77,1478
+} ecran_t 85,1849
+
+Ecran/test_ecran_bille.c,54
+booleen_t fini 8,100
+void arret(11,133
+main(31,351
+
+Ecran/test_ecran_billes.c,54
+booleen_t fini 8,100
+void arret(11,133
+main(31,349
+
+Enseignant/lancer_billes.c,135
+aire_t * Aire 16,202
+ecran_t * Ecran 17,218
+pthread_mutex_t Mutex_Ecran 18,237
+void arret(24,333
+void bille(47,603
+main(181,5051
+
+Etudiant/lancer_billes.c,54
+booleen_t fini 8,100
+void arret(11,133
+main(33,378
+
+Jeu/aire.c,1247
+dim_t aire_hauteur_lire(25,250
+dim_t aire_largeur_lire(31,340
+case_t ** aire_cases_lire(38,429
+case_t * aire_case_lire(44,517
+bille_id_t aire_nb_billes_lire(62,994
+liste_t * aire_billes_lire(89,1463
+booleen_t aire_existe(122,2125
+booleen_t aire_vide(134,2305
+booleen_t aire_case_libre(146,2498
+booleen_t aire_case_bille(160,2765
+booleen_t aire_coord_libre(177,3057
+booleen_t aire_coord_bille(199,3484
+booleen_t aire_coord_appartient(220,3877
+err_t aire_case_ecrire(282,4923
+err_t aire_case_referencer(317,5672
+err_t aire_case_libre_ecrire(346,6307
+err_t aire_bille_poser(368,6704
+aire_t * aire_creer(397,7177
+err_t aire_case_detruire(466,9091
+err_t aire_billes_detruire(497,9850
+err_t aire_bille_enlever(524,10392
+err_t aire_detruire(554,11051
+err_t cb_aire_detruire(580,11520
+err_t aire_reference_effacer(589,11625
+err_t cb_aire_reference_effacer(600,11776
+void aire_afficher(612,11931
+void cb_aire_afficher(651,13199
+err_t aire_copier(660,13327
+err_t cb_aire_copier(697,14241
+err_t aire_referencer(709,14459
+err_t cb_aire_referencer(727,14778
+int aire_comparer(741,15054
+int cb_aire_comparer(781,15798
+err_t aire_bille_positionner(793,16001
+err_t aire_bille_deplacer(873,17690
+err_t aire_zone_creer(918,18743
+
+Jeu/aire.h,267
+#define _AIRE_H_2,17
+#define AIRE_NULL 21,233
+#define AIRE_LARGEUR_MIN 27,330
+#define AIRE_LARGEUR_MAX 32,429
+#define AIRE_HAUTEUR_MIN 38,531
+#define AIRE_HAUTEUR_MAX 43,630
+typedef struct aire_s52,754
+} aire_t 58,960
+typedef unsigned int  aire_id_t 64,1067
+
+Jeu/bille.c,1069
+coord_t * bille_coord_lire(14,157
+direction_t bille_direction_lire(21,287
+unsigned short int bille_vitesse_lire(29,426
+unsigned int bille_nb_deplacements_lire(36,580
+char bille_marque_lire(44,731
+booleen_t bille_existe(54,837
+booleen_t bille_active(63,965
+err_t bille_coord_ecrire(82,1236
+err_t bille_direction_ecrire(90,1419
+err_t bille_vitesse_ecrire(98,1629
+err_t bille_nb_deplacements_ecrire(106,1824
+err_t bille_marque_ecrire(114,2006
+err_t bille_ecrire(122,2166
+err_t bille_copier(150,2902
+err_t cb_bille_copier(175,3364
+err_t bille_referencer(182,3495
+err_t cb_bille_referencer(198,3707
+bille_t * bille_creer(207,3876
+err_t bille_detruire(263,5303
+err_t cb_bille_detruire(277,5508
+err_t bille_reference_effacer(287,5652
+err_t cb_bille_reference_effacer(297,5773
+void bille_afficher(308,5946
+void cb_bille_afficher(315,6060
+void bille_struct_afficher(323,6183
+void cb_bille_struct_afficher(335,6629
+char * bille_struct_string_afficher(342,6750
+int bille_comparer(359,7196
+int cb_bille_comparer(374,7535
+err_t bille_deplacer(387,7880
+
+Jeu/bille.h,174
+#define _BILLE_H_2,18
+#define BILLE_NULL 20,228
+#define BILLE_VITESSE_MAX 27,402
+typedef struct bille_s 37,524
+} bille_t 44,892
+typedef unsigned int bille_id_t 50,1009
+
+Jeu/case.c,1061
+bille_t * case_bille_lire(19,166
+liste_t * case_zones_lire(25,248
+err_t case_bille_poser(35,362
+err_t case_bille_enlever(46,527
+err_t case_bille_deplacer(54,623
+err_t case_zones_ecrire(74,1113
+err_t case_zone_ajouter(88,1349
+err_t case_ecrire(99,1527
+err_t case_copier(127,2047
+err_t cb_case_copier(150,2459
+err_t case_referencer(156,2585
+err_t cb_case_referencer(166,2701
+booleen_t case_existe(176,2853
+booleen_t case_libre(185,2980
+booleen_t case_bille(197,3157
+booleen_t case_zones(209,3337
+booleen_t case_aire_libre(221,3522
+booleen_t case_aire_bille(230,3677
+booleen_t case_zone_libre(239,3829
+booleen_t case_zone_bille(248,3981
+case_t * case_creer(262,4153
+err_t case_detruire(289,4764
+err_t cb_case_detruire(313,5222
+err_t case_reference_effacer(319,5317
+err_t cb_case_reference_effacer(327,5407
+void case_afficher(337,5577
+void cb_case_afficher(372,6193
+void case_struct_afficher(378,6288
+void cb_case_struct_afficher(405,6762
+char * case_string_afficher(415,6933
+int case_comparer(457,7706
+int cb_case_comparer(477,8170
+
+Jeu/case.h,134
+#define _CASE_H_2,17
+#define CASE_NULL 21,234
+typedef struct case_s31,335
+} case_t 35,523
+typedef unsigned int  case_id_t 41,630
+
+Jeu/coord.c,753
+dim_t coord_lig_lire(21,201
+dim_t coord_col_lire(27,313
+err_t coord_lig_ecrire(40,468
+err_t coord_col_ecrire(48,615
+err_t coord_ecrire(56,762
+err_t coord_copier(71,1074
+err_t cb_coord_copier(98,1722
+err_t coord_referencer(108,1944
+err_t cb_coord_referencer(127,2314
+coord_t * coord_creer(140,2541
+err_t coord_detruire(167,3058
+err_t cb_coord_detruire(180,3223
+err_t coord_reference_effacer(187,3359
+err_t cb_coord_reference_effacer(199,3512
+void coord_afficher(209,3694
+void cb_coord_afficher(222,3922
+char * coord_string_afficher(233,4088
+char * cb_coord_string_afficher(249,4422
+booleen_t coord_existe(259,4560
+booleen_t coord_egal(269,4691
+int coord_comparer(288,5145
+int cb_coord_comparer(304,5587
+err_t coord_saisir(315,5795
+
+Jeu/coord.h,98
+#define _COORD_H_2,18
+#define COORD_NULL 22,275
+typedef struct coord_s31,501
+} coord_t 35,598
+
+Jeu/test_aire.c,29
+#define N 8,98
+main(12,118
+
+Jeu/test_aire_zone.c,29
+#define N 8,98
+main(12,118
+
+Jeu/test_aires.c,36
+#define NB_AIRES 8,98
+main(12,125
+
+Jeu/test_bille.c,28
+#define N 6,60
+main(10,80
+
+Jeu/test_billes.c,37
+#define NB_BILLES 8,99
+main(12,127
+
+Jeu/test_case.c,28
+#define N 7,77
+main(11,97
+
+Jeu/test_cases.c,36
+#define NB_CASES 8,98
+main(12,125
+
+Jeu/test_coord.c,28
+#define N 6,60
+main(10,80
+
+Jeu/test_coords.c,37
+#define NB_COORDS 7,79
+main(11,107
+
+Jeu/test_zone.c,28
+#define N 6,59
+main(10,79
+
+Jeu/test_zones.c,36
+#define NB_ZONES 8,98
+main(12,125
+
+Jeu/zone.c,668
+coord_t * zone_coin_hg_lire(14,153
+coord_t * zone_coin_bd_lire(21,280
+booleen_t zone_existe(31,389
+err_t zone_coin_hg_ecrire(45,591
+err_t zone_coin_bd_ecrire(55,823
+err_t zone_ecrire(67,1053
+err_t zone_copier(89,1538
+err_t cb_zone_copier(112,1923
+err_t zone_referencer(119,2080
+err_t cb_zone_referencer(135,2287
+zone_t * zone_creer(144,2451
+err_t zone_detruire(180,3333
+err_t cb_zone_detruire(197,3607
+err_t zone_reference_effacer(207,3760
+err_t cb_zone_reference_effacer(217,3877
+void zone_struct_afficher(229,4035
+void cb_zone_struct_afficher(239,4291
+char * zone_string_afficher(246,4442
+int zone_comparer(261,4784
+int cb_zone_comparer(277,5178
+
+Jeu/zone.h,95
+#define _ZONE_H_2,17
+#define ZONE_NULL 19,199
+typedef struct zone_s 30,308
+} zone_t 34,524
+
+Mvt/mvt_bille.c,104
+err_t  mvt_bille_avancer(22,770
+err_t mvt_bille_rebondir(106,3060
+err_t  mvt_bille_deplacer(209,6030
+
+Mvt/mvt_bille.h,27
+#define _MVT_BILLE_H_2,22
+
+Mvt/test_mvt_bille.c,13
+main(10,108
+
+Mvt/test_mvt_billes.c,11
+main(8,88

@@ -1,0 +1,13 @@
+A FAIRE :
+- zones creuses:
+  * nombre de visteurs limites 
+  * dessin des bords
+- zones pleines:
+  * nombre d'impacts determine avant destruction
+  * interieur en inverse video 
+- liste des zones 
+- fonction appartenance a une zone ...
+- sujet du TP 
+  * 1iere partie: transformer le programme Ecran/test_mvt_billes.c en une thread/bille`(lancer_billes.c) 
+  * 2ieme partie: gerer les zones creuses/pleines avec des semaphores (lancer_billes_zones.c)
+  * 3ieme partie: selon imagination des etudiants

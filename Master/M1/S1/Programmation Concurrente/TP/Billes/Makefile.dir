@@ -1,0 +1,10 @@
+#
+# Parents Directories
+#
+
+DirCommun=../Commun
+DirTDA=../TDA
+DirJeu=../Jeu
+DirEcran=../Ecran
+DirMvt=../Mvt
+DirEtu=../Etudiant
