@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:h="http://java.sun.com/jsf/html" xmlns:f="http://java.sun.com/jsf/core">
+
+<head>
+	<title> Language edition and creation </title>
+</head>
+
+<body>
+	<h1> <h:outputText value="Select or create a new langage"/></h1><br/>
+	<h:form>
+		<h:outputText value="Language available : "/>
+		<h:selectOneMenu value="#{languages.select}">
+			<f:selectItems value="#{languages.availables}" var="lang" itemLabel="#{lang.name}" itemValue="#{lang.id}"/>
+		</h:selectOneMenu>
+		<br/> <br/>
+		<h:outputText value="Create a new language : "/>
+		<hinputText value="#{languages.newLanguage}"/>
+		<br/> <br/>
+		<h:commandButton value="Edit the language" action="#{languages.doSubmit}"/>
+	</h:form>
+</body>

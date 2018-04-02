@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:h="http://java.sun.com/jsf/html" xmlns:f="http://java.sun.com/jsf/core">
+
+<head>
+	<title> Edition </title>
+</head>
+<body>
+	<h1><h:outputText value="Edition of the language : "/><h:outputText value="#{editions.language}"/></h1><br>
+	<h:form>
+		<h:dataTable value="#{editions.texts}" var="text" border="1" cellspacing="2" width="60%">
+			<h:column>
+				<f:facet name="header"><h:outputText value="Key"/></f:facet>
+				<h:inputText value="#{text.attribut}" size="50"/>
+			</h:column>
+			<h:column>
+				<f:facet name="header"><h:outputText value="Value"/></f:facet>
+				<h:inputText value="#{text.value}" size="100"/>
+			</h:column>
+			<f:facet name="footer">
+				<h:panelGroup>
+					<h:commandButton value="Add Row" action="#{editions.doAddText}"/>
+					<h:commandButton value="Finish" action="#{editions.doFinish}"/>
+				</h:panelGroup>
+			</f:facet>
+		</h:dataTable>
+	</h:form>
+</body>
